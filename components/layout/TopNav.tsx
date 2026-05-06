@@ -29,7 +29,7 @@ export function TopNav({ variant = "app" }: TopNavProps) {
           <span className="w-8 h-8 rounded-lg bg-primary/15 flex items-center justify-center">
             <Icon name="local_hospital" className="text-primary text-[20px]" filled />
           </span>
-          <span className="text-headline-md font-bold text-primary tracking-tight">MedGlass Pro</span>
+          <span className="text-headline-md font-bold text-primary tracking-tight">MedGlass</span>
         </Link>
       </div>
 

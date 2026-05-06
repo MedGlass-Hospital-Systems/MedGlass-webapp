@@ -19,7 +19,7 @@ export default function LandingPage() {
             <span className="text-gradient">enfin sereine.</span>
           </h1>
           <p className="text-lg md:text-xl text-on-surface-variant mb-10 max-w-2xl mx-auto">
-            MedGlass Pro automatise les plannings de gardes, astreintes et roulements
+            MedGlass automatise les plannings de gardes, astreintes et roulements
             pour les services hospitaliers. Conçu avec des praticiens, des cadres et
             des DRH d'établissements de santé français.
           </p>
@@ -222,7 +222,7 @@ export default function LandingPage() {
               Vos données patients ne quittent jamais la France
             </h2>
             <p className="text-on-surface-variant mb-6">
-              MedGlass Pro est hébergé chez un Hébergeur de Données de Santé (HDS)
+              MedGlass est hébergé chez un Hébergeur de Données de Santé (HDS)
               certifié, en conformité avec le RGPD. Toutes les communications sont
               chiffrées de bout en bout.
             </p>

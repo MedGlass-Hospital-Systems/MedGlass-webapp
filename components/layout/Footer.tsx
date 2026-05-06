@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="w-full py-10 px-4 md:px-8 bg-background/70 backdrop-blur-[20px] border-t border-outline-variant/20 mt-auto">
       <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
         <div className="col-span-2 md:col-span-1">
-          <div className="text-headline-md text-primary font-bold mb-2">MedGlass Pro</div>
+          <div className="text-headline-md text-primary font-bold mb-2">MedGlass</div>
           <p className="text-body-sm text-on-surface-variant">
             La plateforme de planification dédiée aux établissements de santé.
           </p>

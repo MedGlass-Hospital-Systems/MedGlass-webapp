@@ -12,7 +12,7 @@ export default function LoginPage() {
             <Icon name="local_hospital" className="text-primary text-[28px]" filled />
           </div>
           <h1 className="text-headline-md font-headline-md mb-1">Connexion</h1>
-          <p className="text-on-surface-variant text-body-sm">Accédez à votre espace MedGlass Pro</p>
+          <p className="text-on-surface-variant text-body-sm">Accédez à votre espace MedGlass</p>
         </div>
         <form className="space-y-4" action="/dashboard">
           <label className="block">
