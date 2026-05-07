@@ -55,11 +55,8 @@ export function TopNav({ variant = "app" }: TopNavProps) {
         </nav>
       ) : (
         <nav className="hidden md:flex items-center gap-8 h-full">
-          <Link href="/#fonctionnalites" className="text-on-surface-variant hover:text-primary transition-colors text-body-base">
+          <Link href="/features" className="text-on-surface-variant hover:text-primary transition-colors text-body-base">
             Fonctionnalités
-          </Link>
-          <Link href="/#metiers" className="text-on-surface-variant hover:text-primary transition-colors text-body-base">
-            Métiers
           </Link>
           <Link href="/pricing" className="text-on-surface-variant hover:text-primary transition-colors text-body-base">
             Tarifs
