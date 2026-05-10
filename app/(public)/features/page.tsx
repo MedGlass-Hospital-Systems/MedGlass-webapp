@@ -4,6 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { GlassPanel } from "@/components/ui/GlassPanel";
 import { Icon } from "@/components/layout/Icon";
+import { Variants } from "framer-motion";
 
 const features = [
   {
@@ -63,12 +64,15 @@ const features = [
 ];
 
 // Variante d'animation pour Framer Motion
-const revealVariant = {
+const revealVariant: Variants = {
   hidden: { opacity: 0, y: 50 },
   visible: { 
     opacity: 1, 
     y: 0, 
-    transition: { duration: 0.8, ease: "easeOut" } 
+    transition: { 
+      duration: 0.5, 
+      ease: "easeOut" // Now TS knows this must conform to Framer Motion's Easing type
+    } 
   }
 };
 
