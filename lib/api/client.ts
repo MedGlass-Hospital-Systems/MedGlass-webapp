@@ -4,6 +4,7 @@
  */
 import { staff, services } from "@/lib/mocks/staff";
 import { currentWeekShifts, planningGaps, leaveRequests, swapRequests } from "@/lib/mocks/shifts";
+import { openJobs, candidates } from "@/lib/mocks/recruitment";
 
 export const api = {
   staff: {
@@ -24,6 +25,12 @@ export const api = {
   },
   swaps: {
     list: async () => swapRequests,
+  },
+  recruitment: {
+    jobs: async () => openJobs,
+    job: async (id: string) => openJobs.find((j) => j.id === id) ?? null,
+    candidates: async () => candidates,
+    candidatesByJob: async (jobId: string) => candidates.filter((c) => c.jobId === jobId),
   },
   auth: {
     me: async () => ({
