@@ -28,7 +28,7 @@ export function TopNav() {
           <span className="w-8 h-8 rounded-lg bg-primary/15 flex items-center justify-center">
             <Icon name="local_hospital" className="text-primary text-[20px]" filled />
           </span>
-          <span className="text-xl font-bold text-primary tracking-tight">MedGlass Pro</span>
+          <span className="text-xl font-bold text-primary tracking-tight">MedGlass</span>
         </a>
       </div>
 

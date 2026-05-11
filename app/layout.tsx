@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "MedGlass Pro — Application",
+  title: "MedGlass — Application",
   description: "Gérez les plannings de votre service hospitalier : gardes, astreintes, congés, compétences.",
   keywords: [
     "planning hospitalier",

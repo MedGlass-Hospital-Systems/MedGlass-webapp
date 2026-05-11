@@ -13,7 +13,7 @@ export default function LoginPage() {
           <span className="w-9 h-9 rounded-lg bg-primary/15 flex items-center justify-center">
             <Icon name="local_hospital" className="text-primary text-[22px]" filled />
           </span>
-          <span className="text-xl font-bold text-primary tracking-tight">MedGlass Pro</span>
+          <span className="text-xl font-bold text-primary tracking-tight">MedGlass</span>
         </a>
       </div>
 
