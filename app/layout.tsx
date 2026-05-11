@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "MedGlass — Planification hospitalière intelligente",
-  description:
-    "MedGlass est la plateforme de planification dédiée aux hôpitaux : gardes, astreintes, congés, échanges de shifts et matrice de compétences pour vos équipes médicales et paramédicales.",
+  title: "MedGlass Pro — Application",
+  description: "Gérez les plannings de votre service hospitalier : gardes, astreintes, congés, compétences.",
   keywords: [
     "planning hospitalier",
     "logiciel planning médical",
