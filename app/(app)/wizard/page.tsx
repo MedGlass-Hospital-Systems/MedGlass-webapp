@@ -1,3 +1,6 @@
+"use clients"
+
+import GenerationTutorial from "@/components/modals/GeneratePlanning";
 import { WizardClient } from "@/components/wizard/WizardClient";
 
 export default function WizardPage() {

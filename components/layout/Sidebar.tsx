@@ -25,9 +25,7 @@ export function Sidebar() {
     <nav className="h-screen w-64 left-0 top-0 fixed flex flex-col pt-20 pb-4 glass-strong border-r border-white/10 shadow-md z-40 hidden md:flex">
       <div className="px-6 pb-6 mb-6 border-b border-white/10">
         <div className="flex items-center gap-3 mb-3">
-          <div className="w-10 h-10 rounded-lg glass-button flex items-center justify-center">
-            <Icon name="local_hospital" className="text-primary text-[22px]" filled />
-          </div>
+          
           <div>
             <h2 className="text-base font-semibold text-primary leading-tight">CHU Saint-Marie</h2>
             <p className="text-body-sm text-on-surface-variant">Chirurgie générale</p>

@@ -1,10 +1,12 @@
 import { AmbientBackground } from "@/components/layout/AmbientBackground";
 import { Sidebar } from "@/components/layout/Sidebar";
 import { TopNav } from "@/components/layout/TopNav";
+import { AppProvider } from "@/lib/contexts/AppContext";
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
+    <AppProvider>
       <AmbientBackground />
       <TopNav />
       <Sidebar />
@@ -13,6 +15,8 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
           {children}
         </div>
       </main>
+    </AppProvider>
+
     </>
   );
 }

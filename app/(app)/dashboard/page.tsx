@@ -6,12 +6,15 @@ import { Button } from "@/components/ui/Button";
 import { Icon } from "@/components/layout/Icon";
 import { Avatar } from "@/components/ui/Avatar";
 import { api } from "@/lib/api/client";
+import WelcomeModal from "@/components/modals/WelcomeModal";
 
 export default async function DashboardPage() {
   const me = await api.auth.me();
   const gaps = await api.planning.gaps("chir-gen");
   const leaves = await api.leaves.list();
   const teamStaff = await api.staff.byService("chir-gen");
+
+
 
   return (
     <>
@@ -31,6 +34,9 @@ export default async function DashboardPage() {
           </Button>
         </div>
       </header>
+      <WelcomeModal 
+
+        />
 
       <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         <StatCard label="Shifts actifs (semaine)" value={142} icon="group" badge="+2" />

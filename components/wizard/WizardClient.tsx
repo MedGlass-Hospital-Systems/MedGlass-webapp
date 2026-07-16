@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/Button";
 import { Icon } from "@/components/layout/Icon";
 import { Badge } from "@/components/ui/Badge";
 import { cn } from "@/lib/utils/cn";
+import GenerationTutorial from "../modals/GeneratePlanning"; // Ton modal
 
 const steps = [
   { id: 1, title: "Service & période", icon: "tune" },
@@ -35,6 +36,11 @@ export function WizardClient() {
 
   return (
     <>
+      {/* Le composant Tutorial est injecté ici. 
+        Il va se superposer à l'écran et cibler les IDs ci-dessous.
+      */}
+      <GenerationTutorial />
+
       {/* Stepper */}
       <GlassPanel className="p-6">
         <div className="flex items-center gap-2 overflow-x-auto">
@@ -42,7 +48,12 @@ export function WizardClient() {
             const active = step === s.id;
             const done = step > s.id;
             return (
-              <div key={s.id} className="flex items-center gap-2 shrink-0">
+              // On ajoute l'id dynamique "step-target-X" au conteneur de chaque étape du stepper
+              <div 
+                key={s.id} 
+                id={`step-target-${i}`} 
+                className="flex items-center gap-2 shrink-0 scroll-m-4"
+              >
                 <div
                   className={cn(
                     "flex items-center gap-3 px-4 py-2 rounded-full transition-all",
@@ -72,8 +83,8 @@ export function WizardClient() {
         </div>
       </GlassPanel>
 
-      {/* Step */}
-      <GlassPanel className="p-8 min-h-[480px]">
+      {/* Reste de ton code (Step, Footer actions, etc.) reste INCHANGÉ */}
+      <GlassPanel className="p-8 min-h-[480px] mt-6">
         {step === 1 && <Step1 />}
         {step === 2 && <Step2 />}
         {step === 3 && <Step3 />}

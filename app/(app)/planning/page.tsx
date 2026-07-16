@@ -74,7 +74,7 @@ export default async function PlanningPage() {
         <GlassPanel className="lg:col-span-9 flex flex-col overflow-hidden">
           <div className="px-6 py-4 border-b border-white/10 bg-background/40 flex justify-between items-center sticky top-0 z-10">
             <h3 className="font-headline-md text-headline-md text-on-surface">
-              Roulement — Semaine {weekNum}
+              Semaine {weekNum}
             </h3>
             <div className="flex items-center gap-2">
               <button className="w-8 h-8 rounded-full flex items-center justify-center bg-white/5 hover:bg-white/10 transition-colors text-on-surface-variant">
