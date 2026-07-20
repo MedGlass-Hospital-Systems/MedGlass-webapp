@@ -2,14 +2,14 @@
 
 import React, { createContext, useState, useContext, ReactNode } from "react";
 import { AppContextType } from "../types/global";
-import { Shift } from "../types/planning";
+import { Conflits, Shift } from "../types/planning";
 
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export function AppProvider({ children }: { children: ReactNode }) {
     const [planning, setPlanning] = useState<Shift[]>()
-
+    const [conflits, setConflits] = useState<Conflits[]>()
     return (
             <AppContext.Provider value={{ 
                 planning,

@@ -2,7 +2,7 @@ import { GlassPanel } from "@/components/ui/GlassPanel";
 import { Button } from "@/components/ui/Button";
 import { Badge } from "@/components/ui/Badge";
 import { Icon } from "@/components/layout/Icon";
-import { JobCard } from "@/components/recruitment/JobCard";
+import { PosteCard } from "@/components/recruitment/JobCard";
 import { CandidateKanban } from "@/components/recruitment/CandidateKanban";
 import { api } from "@/lib/api/client";
 
@@ -94,7 +94,7 @@ export default async function RecruitmentPage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5">
           {jobs.map((job, i) => (
-            <JobCard key={job.id} job={job} index={i} />
+            <PosteCard key={job.id} job={job} index={i} />
           ))}
         </div>
       </section>

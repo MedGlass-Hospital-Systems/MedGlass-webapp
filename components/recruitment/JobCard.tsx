@@ -1,10 +1,12 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { Icon } from "@/components/layout/Icon";
 import { Badge } from "@/components/ui/Badge";
 import { cn } from "@/lib/utils/cn";
 import type { JobRole } from "@/lib/types/recruitment";
+import DescriptionPosteModal from "../modals/DescriptionPosteModal";
+import { useState } from "react";
 
 const priorityTone: Record<JobRole["priority"], "error" | "warning" | "neutral"> = {
   urgent: "error",
@@ -38,14 +40,17 @@ interface Props {
   index: number;
 }
 
-export function JobCard({ job, index }: Props) {
+export function PosteCard({ job, index }: Props) {
+  const [isModalOpen, setIsModalOpen] = useState(false);
   return (
+    <>
     <motion.article
       initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.4, delay: index * 0.06, ease: [0.22, 1, 0.36, 1] }}
       className="glass-panel rounded-xl p-6 flex flex-col gap-4 relative overflow-hidden group cursor-pointer"
       whileHover={{ y: -2 }}
+      onClick={() => setIsModalOpen(true)}
     >
       <div
         className={cn(
@@ -99,11 +104,28 @@ export function JobCard({ job, index }: Props) {
             {job.applications}
           </span>
         </div>
-        <button className="glass-button px-3 py-1.5 rounded-lg font-label-caps text-label-caps text-primary hover:bg-white/10 transition-colors flex items-center gap-1.5">
-          Voir
-          <Icon name="arrow_forward" className="text-[14px] transition-transform group-hover:translate-x-0.5" />
-        </button>
+        <button 
+            onClick={(e) => {
+              e.stopPropagation(); // Évite de déclencher le clic de la carte deux fois
+              setIsModalOpen(true);
+            }} 
+            className="glass-button px-3 py-1.5 rounded-lg font-label-caps text-label-caps text-primary hover:bg-white/10 transition-colors flex items-center gap-1.5"
+          >
+            Voir
+            <Icon name="arrow_forward" className="text-[14px] transition-transform group-hover:translate-x-0.5" />
+          </button>
       </footer>
     </motion.article>
+
+    <AnimatePresence>
+        {isModalOpen && (
+          <DescriptionPosteModal 
+            job={job} 
+            open={isModalOpen} 
+            onClose={() => setIsModalOpen(false)} 
+          />
+        )}
+      </AnimatePresence>
+      </>
   );
 }

@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils/cn";
 import { Icon } from "@/components/layout/Icon";
 import { GlassPanel } from "./GlassPanel";
+import Link from "next/link";
 
 interface StatCardProps {
   label: string;
@@ -8,9 +9,10 @@ interface StatCardProps {
   icon: string;
   badge?: string;
   tone?: "default" | "alert" | "success";
+  page?: string;
 }
 
-export function StatCard({ label, value, icon, badge, tone = "default" }: StatCardProps) {
+export function StatCard({ label, value, icon, badge, tone = "default", page }: StatCardProps) {
   const isAlert = tone === "alert";
   const isSuccess = tone === "success";
   return (
@@ -47,8 +49,18 @@ export function StatCard({ label, value, icon, badge, tone = "default" }: StatCa
         <p className={cn("font-label-caps text-label-caps mb-1", isAlert ? "text-error" : "text-on-surface-variant")}>
           {label}
         </p>
-        <p className="font-bold text-[40px] leading-none text-on-surface tracking-tight">{value}</p>
+        <div className="flex flex-row justify-between">
+          <p className="font-bold text-[40px] leading-none text-on-surface tracking-tight">{value}</p>
+          {page && 
+          <Link href={page} className="my-auto text-primary text-body-sm hover:underline">
+            Tout voir
+          </Link>
+          }
+        </div>
+
       </div>
+
+
     </GlassPanel>
   );
 }

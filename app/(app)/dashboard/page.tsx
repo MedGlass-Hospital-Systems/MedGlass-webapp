@@ -39,10 +39,10 @@ export default async function DashboardPage() {
         />
 
       <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        <StatCard label="Shifts actifs (semaine)" value={142} icon="group" badge="+2" />
+        <StatCard label="Shifts actifs (semaine)" value={142} icon="group" badge="+2"  />
         <StatCard label="Soignants disponibles" value={18} icon="local_hospital" />
         <StatCard label="Demandes en attente" value={leaves.filter((l) => l.status === "en-attente").length} icon="pending_actions" />
-        <StatCard label="Conflits détectés" value={gaps.length} icon="warning" tone="alert" badge="Action req." />
+        <StatCard label="Conflits détectés" value={gaps.length} icon="warning" tone="alert" badge="Action req." page="/conflits"/>
       </section>
 
       <section className="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -50,48 +50,15 @@ export default async function DashboardPage() {
         <GlassPanel className="lg:col-span-2 p-6">
           <div className="flex justify-between items-center mb-4 pb-3 border-b border-white/10">
             <div>
-              <h2 className="font-headline-md text-headline-md">Conflits & couvertures</h2>
-              <p className="text-body-sm text-on-surface-variant">
-                Sous-effectifs et règles non respectées
-              </p>
+              <h2 className="font-headline-md text-headline-md">Postes d'Aujourd'hui</h2>
+             
             </div>
             <Link href="/planning" className="text-primary text-body-sm hover:underline">
               Tout voir
             </Link>
           </div>
           <div className="space-y-3">
-            {gaps.map((g) => (
-              <div
-                key={g.id}
-                className="flex items-center gap-4 p-3 rounded-lg hover:bg-white/5 transition-colors border border-white/5"
-              >
-                <span
-                  className={`w-10 h-10 rounded-full flex items-center justify-center ${
-                    g.severity === "critique"
-                      ? "bg-error/20 text-error"
-                      : g.severity === "elevee"
-                      ? "bg-warning/15 text-warning"
-                      : "bg-white/5 text-on-surface-variant"
-                  }`}
-                >
-                  <Icon name="warning" filled={g.severity === "critique"} />
-                </span>
-                <div className="flex-1 min-w-0">
-                  <p className="font-semibold text-on-surface">{g.shift}</p>
-                  <p className="text-body-sm text-on-surface-variant">
-                    {new Date(g.date).toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" })} · {g.reason}
-                  </p>
-                </div>
-                <Badge
-                  tone={g.severity === "critique" ? "error" : g.severity === "elevee" ? "warning" : "neutral"}
-                >
-                  {g.severity}
-                </Badge>
-                <Button href={`/planning?gap=${g.id}`} variant="secondary" size="sm">
-                  Résoudre
-                </Button>
-              </div>
-            ))}
+            
           </div>
         </GlassPanel>
 

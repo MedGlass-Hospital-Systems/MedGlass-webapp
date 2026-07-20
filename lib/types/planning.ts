@@ -23,8 +23,18 @@ export interface Staff {
   skills: string[];
 }
 
-export interface Shift {
+export type Conflits = {
+  id: String;
+  name: String;
+  date: String;
+  serviceId: Number;
+  severity: String;
+  reason:String
+}
+
+export interface Poste {
   id: string;
+  name:string;
   staffId: string;
   date: string;
   startTime: string;

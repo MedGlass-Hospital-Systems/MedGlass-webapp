@@ -7,10 +7,7 @@ import Link from "next/link";
 
 const sections = [
   { id: "profile", label: "Profil", icon: "person" },
-  { id: "service", label: "Service", icon: "local_hospital" },
-  { id: "rules", label: "Règles RH", icon: "rule" },
   { id: "notifications", label: "Notifications", icon: "notifications" },
-  { id: "team", label: "Équipe & droits", icon: "group" },
   { id: "billing", label: "Facturation", icon: "receipt_long" },
   { id: "security", label: "Sécurité", icon: "lock" },
 ];
@@ -87,30 +84,7 @@ export default function SettingsPage() {
             </div>
           </GlassPanel>
 
-          {/* HR Rules */}
-          <GlassPanel id="rules" className="p-6">
-            <h2 className="font-headline-md text-headline-md mb-1">Règles RH du service</h2>
-            <p className="text-on-surface-variant text-body-sm mb-6">
-              Appliquées automatiquement à la génération du planning.
-            </p>
-            <div className="space-y-3">
-              {[
-                { t: "Repos quotidien minimum", v: "11h" },
-                { t: "Repos hebdomadaire minimum", v: "35h" },
-                { t: "Maximum hebdomadaire", v: "48h" },
-                { t: "Jours travaillés consécutifs max", v: "6" },
-                { t: "Repos après garde de nuit", v: "Obligatoire" },
-              ].map((r) => (
-                <div
-                  key={r.t}
-                  className="flex items-center justify-between p-4 rounded-lg border border-white/10 bg-white/[0.02]"
-                >
-                  <span>{r.t}</span>
-                  <span className="text-primary font-data-mono">{r.v}</span>
-                </div>
-              ))}
-            </div>
-          </GlassPanel>
+
 
           {/* Security */}
           <GlassPanel id="security" className="p-6">
