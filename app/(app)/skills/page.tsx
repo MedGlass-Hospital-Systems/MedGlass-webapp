@@ -122,7 +122,6 @@ export default async function SkillsPage() {
                           {s.role === "praticien" || s.role === "interne" ? "Dr. " : ""}
                           {s.firstName} {s.lastName}
                         </p>
-                        <p className="text-[11px] text-on-surface-variant">{s.weeklyHours}h/sem</p>
                       </div>
                     </div>
                   </td>
@@ -132,7 +131,7 @@ export default async function SkillsPage() {
                   <td className="p-4">
                     <div className="flex flex-wrap gap-1">
                       {s.skills.map((sk) => (
-                        <Badge key={sk} tone="primary">{sk}</Badge>
+                        <Badge key={sk.name} tone="primary">{sk.name}</Badge>
                       ))}
                     </div>
                   </td>
