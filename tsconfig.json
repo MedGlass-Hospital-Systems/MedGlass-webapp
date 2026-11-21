@@ -20,5 +20,5 @@
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules", "stitch_medflow_hospital_planner"]
+  "exclude": ["node_modules", "out"]
 }

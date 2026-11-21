@@ -46,6 +46,17 @@
   .focus-ring {
     @apply focus:outline-none focus:ring-2 focus:ring-primary/40 focus:ring-offset-0;
   }
+  /* Champ de formulaire standard (Input, Select, Textarea) */
+  .field {
+    @apply w-full bg-white/5 border border-white/10 rounded-lg px-4 py-2.5 text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/40 transition-colors;
+  }
+  .field option {
+    @apply bg-surface-container text-on-surface;
+  }
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+  }
 }
 
 .material-symbols-outlined {

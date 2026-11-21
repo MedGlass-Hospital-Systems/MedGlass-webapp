@@ -1,8 +1,9 @@
 import { cn } from "@/lib/utils/cn";
 import Link from "next/link";
 import type { ButtonHTMLAttributes, ReactNode } from "react";
+import { Icon } from "@/components/layout/Icon";
 
-type Variant = "primary" | "secondary" | "ghost" | "danger";
+type Variant = "primary" | "secondary" | "ghost" | "danger" | "success";
 type Size = "sm" | "md" | "lg";
 
 interface BaseProps {
@@ -19,6 +20,7 @@ const variantClasses: Record<Variant, string> = {
   secondary: "glass-button text-on-surface hover:text-primary",
   ghost: "text-primary hover:bg-primary/10",
   danger: "bg-error/20 text-error border border-error/30 hover:bg-error/30",
+  success: "bg-success/20 text-success border border-success/30 hover:bg-success/30",
 };
 
 const sizeClasses: Record<Size, string> = {
@@ -37,7 +39,7 @@ interface ButtonElProps extends BaseProps, Omit<ButtonHTMLAttributes<HTMLButtonE
 export function Button(props: AnchorProps | ButtonElProps) {
   const { variant = "primary", size = "md", icon, iconPosition = "left", className, children, ...rest } = props;
   const cls = cn(
-    "inline-flex items-center justify-center gap-2 rounded-full transition-all focus-ring",
+    "inline-flex items-center justify-center gap-2 rounded-full transition-all focus-ring disabled:opacity-40 disabled:pointer-events-none",
     variantClasses[variant],
     sizeClasses[size],
     className,
@@ -45,9 +47,9 @@ export function Button(props: AnchorProps | ButtonElProps) {
 
   const content = (
     <>
-      {icon && iconPosition === "left" && <span className="material-symbols-outlined text-[18px]">{icon}</span>}
+      {icon && iconPosition === "left" && <Icon name={icon} className="text-[18px]" />}
       {children}
-      {icon && iconPosition === "right" && <span className="material-symbols-outlined text-[18px]">{icon}</span>}
+      {icon && iconPosition === "right" && <Icon name={icon} className="text-[18px]" />}
     </>
   );
 
@@ -59,7 +61,7 @@ export function Button(props: AnchorProps | ButtonElProps) {
     );
   }
   return (
-    <button className={cls} {...(rest as ButtonHTMLAttributes<HTMLButtonElement>)}>
+    <button type="button" className={cls} {...(rest as ButtonHTMLAttributes<HTMLButtonElement>)}>
       {content}
     </button>
   );

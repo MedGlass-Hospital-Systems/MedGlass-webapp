@@ -1,0 +1,622 @@
+[
+  {
+    "id": "s1",
+    "firstName": "Sarah",
+    "lastName": "Jenkins",
+    "role": "chef-service",
+    "roleLabel": "Cheffe de service — PH",
+    "service": "chir-gen",
+    "appRole": "admin",
+    "contract": "titulaire",
+    "contractedHours": 48,
+    "phone": "06 10 00 00 01",
+    "skills": [
+      {
+        "name": "Chirurgie viscérale",
+        "level": 5
+      },
+      {
+        "name": "Cœlioscopie",
+        "level": 5
+      },
+      {
+        "name": "Bloc d'urgence",
+        "level": 4
+      },
+      {
+        "name": "Encadrement",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "DESC chirurgie viscérale",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 21,
+      "rtt": 9
+    },
+    "joinedAt": "2014-09-01",
+    "initials": "SJ",
+    "email": "sarah.jenkins@demo.medglass.fr"
+  },
+  {
+    "id": "s11",
+    "firstName": "Julien",
+    "lastName": "Morel",
+    "role": "praticien",
+    "roleLabel": "Praticien hospitalier",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 48,
+    "phone": "06 10 00 00 11",
+    "skills": [
+      {
+        "name": "Chirurgie viscérale",
+        "level": 4
+      },
+      {
+        "name": "Bloc d'urgence",
+        "level": 5
+      },
+      {
+        "name": "Cœlioscopie",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DES chirurgie générale",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 18,
+      "rtt": 11
+    },
+    "joinedAt": "2019-11-04",
+    "initials": "JM",
+    "email": "julien.morel@demo.medglass.fr"
+  },
+  {
+    "id": "s2",
+    "firstName": "Marc",
+    "lastName": "Wei",
+    "role": "interne",
+    "roleLabel": "Interne — 3e année",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "contractuel",
+    "contractedHours": 48,
+    "phone": "06 10 00 00 02",
+    "skills": [
+      {
+        "name": "Suture",
+        "level": 4
+      },
+      {
+        "name": "Hospitalisation",
+        "level": 3
+      },
+      {
+        "name": "Bloc d'urgence",
+        "level": 2
+      }
+    ],
+    "certifications": [
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 12,
+      "rtt": 0
+    },
+    "joinedAt": "2025-11-02",
+    "initials": "MW",
+    "email": "marc.wei@demo.medglass.fr"
+  },
+  {
+    "id": "s3",
+    "firstName": "Élise",
+    "lastName": "Kovacs",
+    "role": "cadre",
+    "roleLabel": "Cadre de santé",
+    "service": "chir-gen",
+    "appRole": "manager",
+    "contract": "titulaire",
+    "contractedHours": 38,
+    "phone": "06 10 00 00 03",
+    "skills": [
+      {
+        "name": "Encadrement",
+        "level": 5
+      },
+      {
+        "name": "Bloc opératoire",
+        "level": 4
+      },
+      {
+        "name": "Hygiène",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "Diplôme cadre de santé",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 25,
+      "rtt": 14
+    },
+    "joinedAt": "2016-03-14",
+    "initials": "EK",
+    "email": "elise.kovacs@demo.medglass.fr"
+  },
+  {
+    "id": "s6",
+    "firstName": "Camille",
+    "lastName": "Roux",
+    "role": "ide",
+    "roleLabel": "Infirmière (IDE)",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 06",
+    "skills": [
+      {
+        "name": "Soins post-op",
+        "level": 4
+      },
+      {
+        "name": "Pansements complexes",
+        "level": 5
+      },
+      {
+        "name": "Hygiène",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DE infirmier",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 19,
+      "rtt": 8
+    },
+    "joinedAt": "2020-06-01",
+    "initials": "CR",
+    "email": "camille.roux@demo.medglass.fr"
+  },
+  {
+    "id": "s9",
+    "firstName": "Hugo",
+    "lastName": "Lefèvre",
+    "role": "ide",
+    "roleLabel": "Infirmier (IDE)",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 09",
+    "skills": [
+      {
+        "name": "Bloc opératoire",
+        "level": 3
+      },
+      {
+        "name": "Soins post-op",
+        "level": 4
+      },
+      {
+        "name": "VVC",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DE infirmier"
+    ],
+    "leaveBalance": {
+      "conges": 14,
+      "rtt": 6
+    },
+    "joinedAt": "2021-09-13",
+    "initials": "HL",
+    "email": "hugo.lefevre@demo.medglass.fr"
+  },
+  {
+    "id": "s10",
+    "firstName": "Inès",
+    "lastName": "Garnier",
+    "role": "ide",
+    "roleLabel": "Infirmière (IDE) — nuit",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 10",
+    "skills": [
+      {
+        "name": "Soins post-op",
+        "level": 5
+      },
+      {
+        "name": "Surveillance continue",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "DE infirmier",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 22,
+      "rtt": 10
+    },
+    "joinedAt": "2018-01-08",
+    "initials": "IG",
+    "email": "ines.garnier@demo.medglass.fr"
+  },
+  {
+    "id": "s7",
+    "firstName": "Nathan",
+    "lastName": "Berger",
+    "role": "as",
+    "roleLabel": "Aide-soignant",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 07",
+    "skills": [
+      {
+        "name": "Mobilisation",
+        "level": 4
+      },
+      {
+        "name": "Hygiène",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "DE aide-soignant"
+    ],
+    "leaveBalance": {
+      "conges": 20,
+      "rtt": 7
+    },
+    "joinedAt": "2017-05-22",
+    "initials": "NB",
+    "email": "nathan.berger@demo.medglass.fr"
+  },
+  {
+    "id": "s12",
+    "firstName": "Clara",
+    "lastName": "Dubois",
+    "role": "as",
+    "roleLabel": "Aide-soignante",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "contractuel",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 12",
+    "skills": [
+      {
+        "name": "Mobilisation",
+        "level": 3
+      },
+      {
+        "name": "Hygiène",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DE aide-soignant"
+    ],
+    "leaveBalance": {
+      "conges": 11,
+      "rtt": 4
+    },
+    "joinedAt": "2024-02-05",
+    "initials": "CD",
+    "email": "clara.dubois@demo.medglass.fr"
+  },
+  {
+    "id": "s16",
+    "firstName": "Lucie",
+    "lastName": "Bernard",
+    "role": "secretaire",
+    "roleLabel": "Secrétaire médicale",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "titulaire",
+    "contractedHours": 35,
+    "phone": "06 10 00 00 16",
+    "skills": [
+      {
+        "name": "Accueil",
+        "level": 4
+      },
+      {
+        "name": "Programmation bloc",
+        "level": 4
+      }
+    ],
+    "certifications": [],
+    "leaveBalance": {
+      "conges": 23,
+      "rtt": 9
+    },
+    "joinedAt": "2015-10-12",
+    "initials": "LB",
+    "email": "lucie.bernard@demo.medglass.fr"
+  },
+  {
+    "id": "s13",
+    "firstName": "Thomas",
+    "lastName": "Petit",
+    "role": "ide",
+    "roleLabel": "IDE vacataire",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "vacataire",
+    "contractedHours": 24,
+    "phone": "06 10 00 00 13",
+    "skills": [
+      {
+        "name": "Soins post-op",
+        "level": 3
+      },
+      {
+        "name": "Bloc opératoire",
+        "level": 2
+      }
+    ],
+    "certifications": [
+      "DE infirmier"
+    ],
+    "leaveBalance": {
+      "conges": 0,
+      "rtt": 0
+    },
+    "joinedAt": "2026-01-05",
+    "initials": "TP",
+    "email": "thomas.petit@demo.medglass.fr"
+  },
+  {
+    "id": "s14",
+    "firstName": "Manon",
+    "lastName": "Faure",
+    "role": "ide",
+    "roleLabel": "IDE intérimaire",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "interimaire",
+    "company": "MediTemp Intérim",
+    "contractedHours": 36,
+    "phone": "06 10 00 00 14",
+    "skills": [
+      {
+        "name": "Bloc opératoire",
+        "level": 4
+      },
+      {
+        "name": "Soins post-op",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DE infirmier",
+      "IBODE"
+    ],
+    "leaveBalance": {
+      "conges": 0,
+      "rtt": 0
+    },
+    "joinedAt": "2026-04-27",
+    "initials": "MF",
+    "email": "manon.faure@demo.medglass.fr"
+  },
+  {
+    "id": "s15",
+    "firstName": "Karim",
+    "lastName": "Benali",
+    "role": "praticien",
+    "roleLabel": "Anesthésiste (prestataire)",
+    "service": "chir-gen",
+    "appRole": "soignant",
+    "contract": "prestataire",
+    "company": "AnesthéSud",
+    "contractedHours": 20,
+    "phone": "06 10 00 00 15",
+    "skills": [
+      {
+        "name": "Anesthésie",
+        "level": 5
+      },
+      {
+        "name": "Intubation",
+        "level": 5
+      },
+      {
+        "name": "Échographie",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "DES anesthésie-réanimation"
+    ],
+    "leaveBalance": {
+      "conges": 0,
+      "rtt": 0
+    },
+    "joinedAt": "2025-06-02",
+    "initials": "KB",
+    "email": "karim.benali@demo.medglass.fr"
+  },
+  {
+    "id": "s4",
+    "firstName": "Léa",
+    "lastName": "Chen",
+    "role": "praticien",
+    "roleLabel": "Praticien hospitalier",
+    "service": "rea",
+    "appRole": "manager",
+    "contract": "titulaire",
+    "contractedHours": 48,
+    "phone": "06 10 00 00 04",
+    "skills": [
+      {
+        "name": "Réanimation médicale",
+        "level": 5
+      },
+      {
+        "name": "ECMO",
+        "level": 4
+      },
+      {
+        "name": "Échographie",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "DES médecine intensive-réanimation"
+    ],
+    "leaveBalance": {
+      "conges": 16,
+      "rtt": 12
+    },
+    "joinedAt": "2017-09-04",
+    "initials": "LC",
+    "email": "lea.chen@demo.medglass.fr"
+  },
+  {
+    "id": "s8",
+    "firstName": "Sofia",
+    "lastName": "Martinez",
+    "role": "interne",
+    "roleLabel": "Interne — 2e année",
+    "service": "rea",
+    "appRole": "soignant",
+    "contract": "contractuel",
+    "contractedHours": 48,
+    "phone": "06 10 00 00 08",
+    "skills": [
+      {
+        "name": "Intubation",
+        "level": 3
+      },
+      {
+        "name": "VVC",
+        "level": 3
+      }
+    ],
+    "certifications": [
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 10,
+      "rtt": 0
+    },
+    "joinedAt": "2026-05-04",
+    "initials": "SM",
+    "email": "sofia.martinez@demo.medglass.fr"
+  },
+  {
+    "id": "s5",
+    "firstName": "Amir",
+    "lastName": "Patel",
+    "role": "praticien",
+    "roleLabel": "Praticien attaché",
+    "service": "cardio",
+    "appRole": "soignant",
+    "contract": "contractuel",
+    "contractedHours": 39,
+    "phone": "06 10 00 00 05",
+    "skills": [
+      {
+        "name": "Coronarographie",
+        "level": 4
+      },
+      {
+        "name": "Holter",
+        "level": 5
+      }
+    ],
+    "certifications": [
+      "DES cardiologie"
+    ],
+    "leaveBalance": {
+      "conges": 15,
+      "rtt": 5
+    },
+    "joinedAt": "2022-01-10",
+    "initials": "AP",
+    "email": "amir.patel@demo.medglass.fr"
+  },
+  {
+    "id": "s17",
+    "firstName": "Paul",
+    "lastName": "Girard",
+    "role": "ide",
+    "roleLabel": "IDE — urgences",
+    "service": "urgences",
+    "appRole": "soignant",
+    "contract": "vacataire",
+    "contractedHours": 30,
+    "phone": "06 10 00 00 17",
+    "skills": [
+      {
+        "name": "Tri IOA",
+        "level": 4
+      },
+      {
+        "name": "Soins d'urgence",
+        "level": 4
+      }
+    ],
+    "certifications": [
+      "DE infirmier",
+      "AFGSU 2"
+    ],
+    "leaveBalance": {
+      "conges": 0,
+      "rtt": 0
+    },
+    "joinedAt": "2025-10-01",
+    "initials": "PG",
+    "email": "paul.girard@demo.medglass.fr"
+  },
+  {
+    "id": "s18",
+    "firstName": "Aïcha",
+    "lastName": "Diallo",
+    "role": "praticien",
+    "roleLabel": "Pédiatre (prestataire)",
+    "service": "pediatrie",
+    "appRole": "soignant",
+    "contract": "prestataire",
+    "company": "Pédia Conseil",
+    "contractedHours": 16,
+    "phone": "06 10 00 00 18",
+    "skills": [
+      {
+        "name": "Néonatalogie",
+        "level": 4
+      },
+      {
+        "name": "Consultation",
+        "level": 5
+      }
+    ],
+    "certifications": [
+      "DES pédiatrie"
+    ],
+    "leaveBalance": {
+      "conges": 0,
+      "rtt": 0
+    },
+    "joinedAt": "2026-02-16",
+    "initials": "AD",
+    "email": "aicha.diallo@demo.medglass.fr"
+  }
+]

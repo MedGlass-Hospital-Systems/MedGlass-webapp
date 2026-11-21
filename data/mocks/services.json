@@ -1,0 +1,9 @@
+[
+  { "id": "chir-gen", "name": "Chirurgie générale", "shortName": "Chir. Gén.", "color": "primary", "managerId": "s3" },
+  { "id": "rea", "name": "Réanimation - Soins intensifs", "shortName": "Réa / SI", "color": "tertiary", "managerId": "s4" },
+  { "id": "cardio", "name": "Cardiologie", "shortName": "Cardio", "color": "secondary", "managerId": "s5" },
+  { "id": "chir-card", "name": "Chirurgie cardiothoracique", "shortName": "Chir. Card.", "color": "primary", "managerId": null },
+  { "id": "neuro", "name": "Neurologie", "shortName": "Neuro", "color": "primary", "managerId": null },
+  { "id": "urgences", "name": "Urgences", "shortName": "Urg.", "color": "error", "managerId": null },
+  { "id": "pediatrie", "name": "Pédiatrie", "shortName": "Péd.", "color": "secondary", "managerId": null }
+]

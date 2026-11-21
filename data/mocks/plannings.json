@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pl-current",
+    "name": "Chirurgie générale — cycle en cours",
+    "serviceId": "chir-gen",
+    "period": "mensuel",
+    "startDate": "2026-04-06",
+    "endDate": "2026-05-31",
+    "status": "publie",
+    "createdBy": "s3",
+    "createdAt": "2026-03-20",
+    "publishedAt": "2026-03-30",
+    "wishesDeadline": null,
+    "requestedStaffIds": [],
+    "ruleIds": ["r1", "r2", "r3", "r4", "r5", "r7"]
+  },
+  {
+    "id": "pl-next",
+    "name": "Chirurgie générale — mois prochain",
+    "serviceId": "chir-gen",
+    "period": "mensuel",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-28",
+    "status": "collecte",
+    "createdBy": "s3",
+    "createdAt": "2026-05-01",
+    "publishedAt": null,
+    "wishesDeadline": "2026-05-14",
+    "requestedStaffIds": ["s11", "s2", "s6", "s9", "s10", "s7", "s12", "s13"],
+    "ruleIds": ["r1", "r2", "r3", "r4", "r5", "r7"]
+  },
+  {
+    "id": "pl-rea",
+    "name": "Réanimation — mois prochain",
+    "serviceId": "rea",
+    "period": "mensuel",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-28",
+    "status": "brouillon",
+    "createdBy": "s4",
+    "createdAt": "2026-05-03",
+    "publishedAt": null,
+    "wishesDeadline": null,
+    "requestedStaffIds": [],
+    "ruleIds": ["r1", "r2", "r3", "r5"]
+  }
+]

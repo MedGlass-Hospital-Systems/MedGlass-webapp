@@ -1,0 +1,4 @@
+[
+  { "id": "sw1", "fromStaffId": "s2", "toStaffId": "s11", "shiftId": "sh-s2-101", "status": "en-attente", "message": "Je suis en DU ce jour-là, peux-tu reprendre ma garde ?", "createdAt": "2026-05-02" },
+  { "id": "sw2", "fromStaffId": "s9", "toStaffId": "s6", "shiftId": "sh-s9-111", "status": "accepte", "message": "Échange contre ton jour du mardi suivant.", "createdAt": "2026-04-30" }
+]

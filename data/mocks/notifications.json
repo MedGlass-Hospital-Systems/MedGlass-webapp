@@ -1,0 +1,10 @@
+[
+  { "id": "n1", "userId": "s1", "type": "poste", "title": "Candidature acceptée", "body": "Pierre Vidal a accepté le poste de chirurgien cardiothoracique.", "createdAt": "2026-05-04T08:12:00", "read": false, "link": "/recruitment" },
+  { "id": "n2", "userId": "s1", "type": "mail", "title": "Nouveau message de la DRH", "body": "Rappel : la campagne d'entretiens annuels démarre lundi prochain.", "createdAt": "2026-05-03T17:40:00", "read": false, "link": null },
+  { "id": "n3", "userId": "s1", "type": "demande", "title": "Nouvelle demande de congé", "body": "Hugo Lefèvre demande 5 jours de congés.", "createdAt": "2026-05-01T10:05:00", "read": true, "link": "/demandes" },
+  { "id": "n4", "userId": "s1", "type": "planning", "title": "Conflit critique détecté", "body": "Aucun praticien n'est positionné sur la garde de jeudi soir.", "createdAt": "2026-05-04T07:00:00", "read": false, "link": "/planning?conflit=g1" },
+  { "id": "n5", "userId": "s3", "type": "souhaits", "title": "Souhaits reçus", "body": "2 souhaits sur 8 ont été reçus pour le planning du mois prochain.", "createdAt": "2026-05-04T09:00:00", "read": false, "link": "/planning?onglet=preparation" },
+  { "id": "n6", "userId": "s6", "type": "souhaits", "title": "Vos souhaits sont attendus", "body": "Élise Kovacs prépare le planning « Chirurgie générale — mois prochain » et attend vos souhaits.", "createdAt": "2026-05-01T09:00:00", "read": false, "link": "/souhaits?planning=pl-next" },
+  { "id": "n7", "userId": "s6", "type": "demande", "title": "Congé validé", "body": "Votre congé du week-end a été validé.", "createdAt": "2026-04-22T14:30:00", "read": true, "link": "/demandes" },
+  { "id": "n8", "userId": "s11", "type": "demande", "title": "Demande d'échange", "body": "Marc Wei vous propose de reprendre sa garde de mardi.", "createdAt": "2026-05-02T19:20:00", "read": false, "link": "/demandes" }
+]

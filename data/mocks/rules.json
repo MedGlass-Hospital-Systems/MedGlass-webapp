@@ -1,0 +1,9 @@
+[
+  { "id": "r1", "label": "Repos quotidien minimum de 11 h", "category": "legal", "enabled": true, "description": "Code du travail — aucun salarié ne peut enchaîner deux postes sans 11 h de repos." },
+  { "id": "r2", "label": "Repos hebdomadaire minimum de 35 h", "category": "legal", "enabled": true },
+  { "id": "r3", "label": "Maximum 48 h hebdomadaires", "category": "legal", "enabled": true, "description": "Moyenne calculée sur 4 mois glissants pour les praticiens." },
+  { "id": "r4", "label": "Pas plus de 6 jours travaillés consécutifs", "category": "interne", "enabled": true },
+  { "id": "r5", "label": "Repos de sécurité après une garde de nuit", "category": "legal", "enabled": true },
+  { "id": "r6", "label": "Lissage des week-ends travaillés sur 6 mois", "category": "equite", "enabled": false },
+  { "id": "r7", "label": "Au moins 2 IDE présents par poste de jour", "category": "interne", "enabled": true }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "w1",
+    "planningId": "pl-next",
+    "staffId": "s9",
+    "submittedAt": "2026-05-03",
+    "leaves": [{ "startDate": "2026-06-15", "endDate": "2026-06-19", "type": "conges" }],
+    "preferences": [
+      { "weekday": 0, "slot": "matin", "level": "prioritaire" },
+      { "weekday": 1, "slot": "matin", "level": "prioritaire" },
+      { "weekday": 5, "slot": "nuit", "level": "eviter" }
+    ],
+    "absences": [],
+    "comment": "Disponible pour des nuits en début de mois."
+  },
+  {
+    "id": "w2",
+    "planningId": "pl-next",
+    "staffId": "s12",
+    "submittedAt": "2026-05-04",
+    "leaves": [],
+    "preferences": [{ "weekday": 2, "slot": "apres-midi", "level": "prioritaire" }],
+    "absences": [{ "startDate": "2026-06-08", "endDate": "2026-06-08", "reason": "Rendez-vous médical" }],
+    "comment": ""
+  }
+]

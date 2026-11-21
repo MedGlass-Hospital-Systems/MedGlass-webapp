@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "prise-en-main",
+    "category": "Premiers pas",
+    "title": "Découvrir MedGlass en 3 minutes",
+    "summary": "Le tableau de bord, le menu, les notifications et le changement de rôle.",
+    "icon": "rocket_launch",
+    "readingMinutes": 3,
+    "audience": "tous",
+    "steps": [
+      { "title": "Le tableau de bord", "body": "L'accueil résume votre journée : postes du jour, demandes en attente, conflits détectés et équipe. Chaque bloc dispose d'un lien « Tout voir » pour accéder au détail.", "image": "/help/prise-en-main-1.png" },
+      { "title": "Les actions rapides", "body": "Depuis le bloc « Actions rapides », vous pouvez échanger un poste, poser un congé, ajouter une règle, un collaborateur, gérer les rôles ou incarner une personne.", "image": "/help/prise-en-main-2.png" },
+      { "title": "Les notifications", "body": "La cloche en haut à droite affiche les nouveautés : messages, réponses à vos demandes, souhaits attendus. Cliquez sur une notification pour ouvrir la page concernée." },
+      { "title": "Incarner une personne", "body": "Un administrateur peut voir l'application « comme » un collaborateur pour vérifier ce qu'il voit. Un bandeau rappelle l'incarnation en cours ; cliquez sur « Revenir à mon compte » pour la quitter.", "image": "/help/prise-en-main-3.png" }
+    ]
+  },
+  {
+    "slug": "consulter-planning",
+    "category": "Planning",
+    "title": "Consulter le planning par jour, semaine ou mois",
+    "summary": "Changer de vue, naviguer dans le temps et ouvrir le détail d'un poste.",
+    "icon": "calendar_month",
+    "readingMinutes": 2,
+    "audience": "tous",
+    "steps": [
+      { "title": "Choisir la vue", "body": "Les boutons Jour / Semaine / Mois en haut de la grille changent l'échelle. La vue Jour affiche une frise horaire, la vue Mois un aperçu compact de toute l'équipe.", "image": "/help/consulter-planning-1.png" },
+      { "title": "Naviguer", "body": "Les flèches déplacent la période affichée, le bouton « Aujourd'hui » revient à la date du jour. Le sélecteur de service permet de consulter un autre service." },
+      { "title": "Ouvrir un poste", "body": "Cliquez sur une case pour voir le détail du poste (horaires, type, collaborateur) et proposer un échange.", "image": "/help/consulter-planning-2.png" }
+    ]
+  },
+  {
+    "slug": "creer-planning",
+    "category": "Planning",
+    "title": "Créer un planning avec l'assistant",
+    "summary": "Les 5 étapes de l'assistant : périmètre, règles, souhaits de l'équipe, génération, publication.",
+    "icon": "auto_fix",
+    "readingMinutes": 4,
+    "audience": "manager",
+    "steps": [
+      { "title": "Service et période", "body": "Cliquez sur « Nouveau planning ». Choisissez le service, le type de cycle et les dates. Le planning est créé en brouillon.", "image": "/help/creer-planning-1.png" },
+      { "title": "Règles métier", "body": "Activez les règles RH à respecter (repos, plafonds horaires, équité). Vous pouvez en ajouter de nouvelles." },
+      { "title": "Souhaits de l'équipe", "body": "Envoyez une demande de souhaits : chaque collaborateur reçoit une notification et saisit ses congés, préférences et absences. Vous suivez les réponses en temps réel.", "image": "/help/creer-planning-2.png" },
+      { "title": "Génération et publication", "body": "Lancez la génération, vérifiez les indicateurs (heures, couverture, équité) puis publiez. L'équipe est notifiée." },
+      { "title": "Suivre l'avancement", "body": "L'onglet « En préparation » de la page Planning affiche l'état de chaque planning et permet de reprendre l'assistant là où vous l'avez laissé.", "image": "/help/creer-planning-3.png" }
+    ]
+  },
+  {
+    "slug": "resoudre-conflit",
+    "category": "Planning",
+    "title": "Résoudre un conflit de couverture",
+    "summary": "Repérer un sous-effectif, le visualiser sur la grille et positionner un remplaçant.",
+    "icon": "warning",
+    "readingMinutes": 2,
+    "audience": "manager",
+    "steps": [
+      { "title": "Repérer le conflit", "body": "Les conflits apparaissent sur l'accueil, dans la page Conflits et dans le panneau latéral du planning, classés par sévérité." },
+      { "title": "Le visualiser sur la grille", "body": "Cliquez sur un conflit : le planning se positionne sur la bonne date et le créneau non couvert clignote dans la ligne « Besoins non couverts ».", "image": "/help/resoudre-conflit-1.png" },
+      { "title": "Positionner un remplaçant", "body": "« Résoudre » propose les collaborateurs disponibles ayant le bon métier. Vous pouvez aussi publier le créneau dans la bourse au poste.", "image": "/help/resoudre-conflit-2.png" }
+    ]
+  },
+  {
+    "slug": "conges-echanges",
+    "category": "Demandes",
+    "title": "Poser un congé ou échanger un poste",
+    "summary": "Faire une demande, suivre son statut, valider celles de son équipe.",
+    "icon": "edit_calendar",
+    "readingMinutes": 2,
+    "audience": "tous",
+    "steps": [
+      { "title": "Poser un congé", "body": "Actions rapides → « Congé ». Choisissez le type, les dates et un motif. Le solde restant est affiché avant l'envoi.", "image": "/help/conges-echanges-1.png" },
+      { "title": "Échanger un poste", "body": "Actions rapides → « Échange ». Sélectionnez votre poste puis le collègue à qui vous le proposez." },
+      { "title": "Suivre et valider", "body": "La page Demandes liste toutes les demandes. Un manager peut les valider ou les refuser en un clic ; le planning est mis à jour automatiquement.", "image": "/help/conges-echanges-2.png" }
+    ]
+  },
+  {
+    "slug": "saisir-souhaits",
+    "category": "Demandes",
+    "title": "Saisir mes souhaits pour un planning",
+    "summary": "Répondre à la demande de votre cadre en 4 étapes, avec votre décompte d'heures.",
+    "icon": "favorite",
+    "readingMinutes": 3,
+    "audience": "soignant",
+    "steps": [
+      { "title": "La notification", "body": "Quand votre cadre prépare un planning, vous recevez une notification « Vos souhaits sont attendus ». Un encart apparaît aussi sur votre accueil." },
+      { "title": "Congés", "body": "Indiquez les périodes de congés souhaitées. Le solde de congés disponible se met à jour au fur et à mesure.", "image": "/help/saisir-souhaits-1.png" },
+      { "title": "Moments prioritaires", "body": "Pour chaque jour de la semaine, indiquez les créneaux (matin, après-midi, nuit) où vous préférez travailler ou que vous souhaitez éviter.", "image": "/help/saisir-souhaits-2.png" },
+      { "title": "Absences et envoi", "body": "Déclarez vos indisponibilités, relisez le récapitulatif puis envoyez. Le décompte d'heures par semaine vous aide à vérifier votre équilibre." }
+    ]
+  },
+  {
+    "slug": "recrutement",
+    "category": "Recrutement",
+    "title": "Publier un poste et suivre les candidatures",
+    "summary": "Publier une offre, filtrer, faire avancer les candidats et garder des favoris.",
+    "icon": "work_history",
+    "readingMinutes": 3,
+    "audience": "manager",
+    "steps": [
+      { "title": "Publier un poste", "body": "Bouton « Publier un poste » : titre, service, contrat, priorité, prérequis. Choisissez « Mobilité interne » pour réserver l'offre au personnel." },
+      { "title": "Filtrer les offres", "body": "Les filtres (Urgent, Médecins, Paramédical, Cadre) affinent la liste des postes ouverts.", "image": "/help/recrutement-1.png" },
+      { "title": "Le pipeline", "body": "Faites glisser un candidat d'une colonne à l'autre pour le faire avancer. Cliquez sur sa carte pour voir le détail de la candidature.", "image": "/help/recrutement-2.png" },
+      { "title": "Les favoris", "body": "L'étoile ajoute un profil à vos favoris. Le filtre « Favoris » n'affiche plus qu'eux, pour les retrouver facilement." }
+    ]
+  },
+  {
+    "slug": "bourse-au-poste",
+    "category": "Recrutement",
+    "title": "La bourse au poste",
+    "summary": "Prendre un créneau vacant ou postuler à une mobilité interne.",
+    "icon": "swap_horizontal_circle",
+    "readingMinutes": 2,
+    "audience": "tous",
+    "steps": [
+      { "title": "Créneaux à pourvoir", "body": "Les gardes et postes non couverts sont proposés à l'ensemble du personnel compatible. « Je suis volontaire » envoie votre candidature au cadre, qui attribue le créneau.", "image": "/help/bourse-au-poste-1.png" },
+      { "title": "Mobilité interne", "body": "Les offres réservées au personnel du CHU sont listées dans le second onglet ; postulez avec un court message." }
+    ]
+  },
+  {
+    "slug": "annuaire",
+    "category": "Équipe",
+    "title": "Annuaire, profils et compétences",
+    "summary": "Trouver un collaborateur ou un prestataire et consulter son profil.",
+    "icon": "contacts",
+    "readingMinutes": 2,
+    "audience": "tous",
+    "steps": [
+      { "title": "L'annuaire", "body": "Recherchez par nom, service ou compétence ; filtrez par type de contrat (titulaire, vacataire, intérimaire, prestataire).", "image": "/help/annuaire-1.png" },
+      { "title": "Le profil", "body": "Cliquez sur une carte : coordonnées, compétences et niveaux, certifications, heures de la semaine et prochains postes.", "image": "/help/annuaire-2.png" },
+      { "title": "La matrice de compétences", "body": "L'onglet Matrice croise collaborateurs et compétences pour vérifier qu'un soignant qualifié est présent à chaque poste." }
+    ]
+  },
+  {
+    "slug": "exporter-planning",
+    "category": "Planning",
+    "title": "Exporter le planning (agenda ou Excel)",
+    "summary": "Ajouter ses postes à son agenda ou partager un tableau Excel.",
+    "icon": "download",
+    "readingMinutes": 1,
+    "audience": "tous",
+    "steps": [
+      { "title": "Exporter", "body": "Bouton « Exporter » de la page Planning : « Agenda (.ics) » s'importe dans Google Agenda, Outlook ou Apple Calendrier ; « Excel (.xlsx) » produit un tableau collaborateurs × jours de la période affichée.", "image": "/help/exporter-planning-1.png" }
+    ]
+  },
+  {
+    "slug": "reglages",
+    "category": "Compte",
+    "title": "Profil et préférences de notifications",
+    "summary": "Mettre à jour vos informations et choisir comment être prévenu.",
+    "icon": "settings",
+    "readingMinutes": 1,
+    "audience": "tous",
+    "steps": [
+      { "title": "Votre profil", "body": "Dans Réglages → Profil, modifiez nom, prénom, e-mail et téléphone puis enregistrez.", "image": "/help/reglages-1.png" },
+      { "title": "Vos notifications", "body": "Choisissez, pour chaque type d'événement, si vous voulez être prévenu dans l'application et/ou par e-mail." }
+    ]
+  }
+]

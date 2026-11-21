@@ -1,0 +1,8 @@
+[
+  { "id": "lr1", "staffId": "s6", "startDate": "2026-05-08", "endDate": "2026-05-09", "type": "conges", "status": "valide", "reason": "Week-end prolongé", "createdAt": "2026-04-20" },
+  { "id": "lr2", "staffId": "s9", "startDate": "2026-05-18", "endDate": "2026-05-22", "type": "conges", "status": "en-attente", "reason": "Congés annuels", "createdAt": "2026-05-01" },
+  { "id": "lr3", "staffId": "s2", "startDate": "2026-05-01", "endDate": "2026-05-01", "type": "formation", "status": "valide", "reason": "DPC échographie", "createdAt": "2026-04-10" },
+  { "id": "lr4", "staffId": "s12", "startDate": "2026-05-05", "endDate": "2026-05-05", "type": "rtt", "status": "valide", "createdAt": "2026-04-28" },
+  { "id": "lr5", "staffId": "s7", "startDate": "2026-05-25", "endDate": "2026-05-29", "type": "conges", "status": "en-attente", "reason": "Vacances en famille", "createdAt": "2026-05-03" },
+  { "id": "lr6", "staffId": "s10", "startDate": "2026-05-20", "endDate": "2026-05-20", "type": "rtt", "status": "refuse", "reason": "Rendez-vous personnel", "createdAt": "2026-04-29" }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": "os1", "conflictId": "g1", "date": "2026-05-07", "startTime": "18:30", "endTime": "08:30", "type": "garde", "service": "chir-gen", "requiredRole": "praticien", "bonus": "Indemnité de garde majorée", "status": "ouvert", "postedAt": "2026-05-04", "applicants": [], "takenBy": null },
+  { "id": "os2", "conflictId": "g2", "date": "2026-05-08", "startTime": "07:00", "endTime": "19:00", "type": "jour", "service": "chir-gen", "requiredRole": "ide", "bonus": null, "status": "ouvert", "postedAt": "2026-05-04", "applicants": ["s13"], "takenBy": null },
+  { "id": "os3", "conflictId": null, "date": "2026-05-09", "startTime": "19:00", "endTime": "07:00", "type": "nuit", "service": "rea", "requiredRole": "ide", "bonus": "Prime de nuit + 15 %", "status": "ouvert", "postedAt": "2026-05-03", "applicants": [], "takenBy": null },
+  { "id": "os4", "conflictId": null, "date": "2026-05-02", "startTime": "07:00", "endTime": "19:00", "type": "jour", "service": "chir-gen", "requiredRole": "ide", "bonus": null, "status": "pourvu", "postedAt": "2026-04-28", "applicants": ["s14"], "takenBy": "s14" }
+]

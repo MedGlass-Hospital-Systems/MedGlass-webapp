@@ -1,7 +1,7 @@
+import Link from "next/link";
 import { cn } from "@/lib/utils/cn";
 import { Icon } from "@/components/layout/Icon";
 import { GlassPanel } from "./GlassPanel";
-import Link from "next/link";
 
 interface StatCardProps {
   label: string;
@@ -9,18 +9,17 @@ interface StatCardProps {
   icon: string;
   badge?: string;
   tone?: "default" | "alert" | "success";
-  page?: string;
+  /** Lien « Tout voir » */
+  href?: string;
+  hint?: string;
 }
 
-export function StatCard({ label, value, icon, badge, tone = "default", page }: StatCardProps) {
+export function StatCard({ label, value, icon, badge, tone = "default", href, hint }: StatCardProps) {
   const isAlert = tone === "alert";
   const isSuccess = tone === "success";
   return (
     <GlassPanel
-      className={cn(
-        "p-6 flex flex-col justify-between min-h-[140px] relative overflow-hidden",
-        isAlert && "border-error/30",
-      )}
+      className={cn("p-6 flex flex-col justify-between min-h-[140px] relative overflow-hidden", isAlert && "border-error/30")}
     >
       {isAlert && <div className="absolute top-0 right-0 w-24 h-24 bg-error/10 rounded-bl-full pointer-events-none" />}
       <div className="flex justify-between items-start mb-4 relative z-10">
@@ -36,9 +35,7 @@ export function StatCard({ label, value, icon, badge, tone = "default", page }: 
           <span
             className={cn(
               "px-2.5 py-1 rounded-full font-label-caps text-[10px] border",
-              isAlert
-                ? "bg-error/20 text-error border-error/30"
-                : "bg-success/15 text-success border-success/30",
+              isAlert ? "bg-error/20 text-error border-error/30" : "bg-success/15 text-success border-success/30",
             )}
           >
             {badge}
@@ -49,18 +46,16 @@ export function StatCard({ label, value, icon, badge, tone = "default", page }: 
         <p className={cn("font-label-caps text-label-caps mb-1", isAlert ? "text-error" : "text-on-surface-variant")}>
           {label}
         </p>
-        <div className="flex flex-row justify-between">
-          <p className="font-bold text-[40px] leading-none text-on-surface tracking-tight">{value}</p>
-          {page && 
-          <Link href={page} className="my-auto text-primary text-body-sm hover:underline">
-            Tout voir
-          </Link>
-          }
+        <div className="flex flex-row justify-between items-end gap-2">
+          <p className="font-bold text-[40px] leading-none text-on-surface tracking-tight tabular-nums">{value}</p>
+          {href && (
+            <Link href={href} className="text-primary text-body-sm hover:underline">
+              Tout voir
+            </Link>
+          )}
         </div>
-
+        {hint && <p className="text-[11px] text-on-surface-variant mt-2">{hint}</p>}
       </div>
-
-
     </GlassPanel>
   );
 }

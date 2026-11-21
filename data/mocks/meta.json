@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "anchorWeek": "2026-05-04",
+  "meId": "s1",
+  "hospital": {
+    "name": "CHU Saint-Marie",
+    "sites": ["Site principal", "Clinique du Parc · Annexe Ouest"]
+  }
+}

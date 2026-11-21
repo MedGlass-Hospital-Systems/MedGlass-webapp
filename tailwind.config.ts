@@ -74,10 +74,15 @@ const config: Config = {
           "0%": { opacity: "0", transform: "translateY(20px)" },
           "100%": { opacity: "1", transform: "translateY(0)" },
         },
+        "pulse-ring": {
+          "0%, 100%": { boxShadow: "0 0 0 0 rgba(255, 180, 171, 0.0)" },
+          "50%": { boxShadow: "0 0 0 4px rgba(255, 180, 171, 0.55)" },
+        },
       },
       animation: {
         "fade-in": "fade-in 0.5s ease-out forwards",
         "slide-up": "slide-up 0.6s ease-out forwards",
+        "pulse-ring": "pulse-ring 1.2s ease-in-out 4",
       },
     },
   },

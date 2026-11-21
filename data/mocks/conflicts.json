@@ -1,0 +1,46 @@
+[
+  {
+    "id": "g1",
+    "date": "2026-05-07",
+    "service": "chir-gen",
+    "label": "Garde 18h30 – 08h30",
+    "slot": { "startTime": "18:30", "endTime": "08:30", "type": "garde" },
+    "requiredRole": "praticien",
+    "severity": "critique",
+    "reason": "Aucun praticien disponible pour la garde de nuit",
+    "status": "ouvert"
+  },
+  {
+    "id": "g2",
+    "date": "2026-05-08",
+    "service": "chir-gen",
+    "label": "Bloc opératoire — jour",
+    "slot": { "startTime": "07:00", "endTime": "19:00", "type": "jour" },
+    "requiredRole": "ide",
+    "severity": "elevee",
+    "reason": "1 IDE manquant (congé de Camille Roux)",
+    "status": "ouvert"
+  },
+  {
+    "id": "g3",
+    "date": "2026-05-10",
+    "service": "chir-gen",
+    "label": "Astreinte week-end",
+    "slot": { "startTime": "08:00", "endTime": "20:00", "type": "astreinte" },
+    "requiredRole": "praticien",
+    "severity": "moyenne",
+    "reason": "Couverture incomplète le dimanche",
+    "status": "ouvert"
+  },
+  {
+    "id": "g4",
+    "date": "2026-05-13",
+    "service": "chir-gen",
+    "label": "Après-midi 13h – 21h",
+    "slot": { "startTime": "13:00", "endTime": "21:00", "type": "jour" },
+    "requiredRole": "as",
+    "severity": "elevee",
+    "reason": "Aide-soignant manquant (formation de Nathan Berger)",
+    "status": "ouvert"
+  }
+]

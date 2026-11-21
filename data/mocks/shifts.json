@@ -1,0 +1,5592 @@
+[
+ {
+  "id": "sh-s1-72",
+  "staffId": "s1",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-73",
+  "staffId": "s1",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-74",
+  "staffId": "s1",
+  "date": "2026-04-08",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-75",
+  "staffId": "s1",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-76",
+  "staffId": "s1",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-79",
+  "staffId": "s1",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-80",
+  "staffId": "s1",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-81",
+  "staffId": "s1",
+  "date": "2026-04-15",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-82",
+  "staffId": "s1",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-83",
+  "staffId": "s1",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-86",
+  "staffId": "s1",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-87",
+  "staffId": "s1",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-88",
+  "staffId": "s1",
+  "date": "2026-04-22",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-89",
+  "staffId": "s1",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-90",
+  "staffId": "s1",
+  "date": "2026-04-24",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-91",
+  "staffId": "s1",
+  "date": "2026-04-25",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-93",
+  "staffId": "s1",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-94",
+  "staffId": "s1",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-95",
+  "staffId": "s1",
+  "date": "2026-04-29",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-96",
+  "staffId": "s1",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-97",
+  "staffId": "s1",
+  "date": "2026-05-01",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-100",
+  "staffId": "s1",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-101",
+  "staffId": "s1",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-102",
+  "staffId": "s1",
+  "date": "2026-05-06",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-103",
+  "staffId": "s1",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-104",
+  "staffId": "s1",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-107",
+  "staffId": "s1",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-108",
+  "staffId": "s1",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-109",
+  "staffId": "s1",
+  "date": "2026-05-13",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-110",
+  "staffId": "s1",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-111",
+  "staffId": "s1",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-114",
+  "staffId": "s1",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-115",
+  "staffId": "s1",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-116",
+  "staffId": "s1",
+  "date": "2026-05-20",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-117",
+  "staffId": "s1",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-118",
+  "staffId": "s1",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-121",
+  "staffId": "s1",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-122",
+  "staffId": "s1",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-123",
+  "staffId": "s1",
+  "date": "2026-05-27",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-124",
+  "staffId": "s1",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s1-125",
+  "staffId": "s1",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-72",
+  "staffId": "s11",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-73",
+  "staffId": "s11",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-74",
+  "staffId": "s11",
+  "date": "2026-04-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-75",
+  "staffId": "s11",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-76",
+  "staffId": "s11",
+  "date": "2026-04-10",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-77",
+  "staffId": "s11",
+  "date": "2026-04-11",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-79",
+  "staffId": "s11",
+  "date": "2026-04-13",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-80",
+  "staffId": "s11",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-81",
+  "staffId": "s11",
+  "date": "2026-04-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-82",
+  "staffId": "s11",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-83",
+  "staffId": "s11",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-86",
+  "staffId": "s11",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-87",
+  "staffId": "s11",
+  "date": "2026-04-21",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-88",
+  "staffId": "s11",
+  "date": "2026-04-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-89",
+  "staffId": "s11",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-90",
+  "staffId": "s11",
+  "date": "2026-04-24",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-91",
+  "staffId": "s11",
+  "date": "2026-04-25",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-93",
+  "staffId": "s11",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-94",
+  "staffId": "s11",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-95",
+  "staffId": "s11",
+  "date": "2026-04-29",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-96",
+  "staffId": "s11",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-97",
+  "staffId": "s11",
+  "date": "2026-05-01",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-100",
+  "staffId": "s11",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-101",
+  "staffId": "s11",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-102",
+  "staffId": "s11",
+  "date": "2026-05-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-103",
+  "staffId": "s11",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-104",
+  "staffId": "s11",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-105",
+  "staffId": "s11",
+  "date": "2026-05-09",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-107",
+  "staffId": "s11",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-108",
+  "staffId": "s11",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-109",
+  "staffId": "s11",
+  "date": "2026-05-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-110",
+  "staffId": "s11",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-111",
+  "staffId": "s11",
+  "date": "2026-05-15",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-114",
+  "staffId": "s11",
+  "date": "2026-05-18",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-115",
+  "staffId": "s11",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-116",
+  "staffId": "s11",
+  "date": "2026-05-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-117",
+  "staffId": "s11",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-118",
+  "staffId": "s11",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-119",
+  "staffId": "s11",
+  "date": "2026-05-23",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-121",
+  "staffId": "s11",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-122",
+  "staffId": "s11",
+  "date": "2026-05-26",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-123",
+  "staffId": "s11",
+  "date": "2026-05-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-124",
+  "staffId": "s11",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s11-125",
+  "staffId": "s11",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-72",
+  "staffId": "s2",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-73",
+  "staffId": "s2",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-74",
+  "staffId": "s2",
+  "date": "2026-04-08",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-75",
+  "staffId": "s2",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-76",
+  "staffId": "s2",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-79",
+  "staffId": "s2",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-80",
+  "staffId": "s2",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-81",
+  "staffId": "s2",
+  "date": "2026-04-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-82",
+  "staffId": "s2",
+  "date": "2026-04-16",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-83",
+  "staffId": "s2",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-85",
+  "staffId": "s2",
+  "date": "2026-04-19",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-86",
+  "staffId": "s2",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-87",
+  "staffId": "s2",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-88",
+  "staffId": "s2",
+  "date": "2026-04-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-89",
+  "staffId": "s2",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-90",
+  "staffId": "s2",
+  "date": "2026-04-24",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-93",
+  "staffId": "s2",
+  "date": "2026-04-27",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-94",
+  "staffId": "s2",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-95",
+  "staffId": "s2",
+  "date": "2026-04-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-96",
+  "staffId": "s2",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-97",
+  "staffId": "s2",
+  "date": "2026-05-01",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "formation",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-99",
+  "staffId": "s2",
+  "date": "2026-05-03",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-100",
+  "staffId": "s2",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-101",
+  "staffId": "s2",
+  "date": "2026-05-05",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-102",
+  "staffId": "s2",
+  "date": "2026-05-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-103",
+  "staffId": "s2",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-104",
+  "staffId": "s2",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-107",
+  "staffId": "s2",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-108",
+  "staffId": "s2",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-109",
+  "staffId": "s2",
+  "date": "2026-05-13",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-110",
+  "staffId": "s2",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-111",
+  "staffId": "s2",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-113",
+  "staffId": "s2",
+  "date": "2026-05-17",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-114",
+  "staffId": "s2",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-115",
+  "staffId": "s2",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-116",
+  "staffId": "s2",
+  "date": "2026-05-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-117",
+  "staffId": "s2",
+  "date": "2026-05-21",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-118",
+  "staffId": "s2",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-121",
+  "staffId": "s2",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-122",
+  "staffId": "s2",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-123",
+  "staffId": "s2",
+  "date": "2026-05-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-124",
+  "staffId": "s2",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-125",
+  "staffId": "s2",
+  "date": "2026-05-29",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s2-127",
+  "staffId": "s2",
+  "date": "2026-05-31",
+  "startTime": "08:00",
+  "endTime": "20:00",
+  "type": "astreinte",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-72",
+  "staffId": "s3",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-73",
+  "staffId": "s3",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-74",
+  "staffId": "s3",
+  "date": "2026-04-08",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-75",
+  "staffId": "s3",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-76",
+  "staffId": "s3",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-79",
+  "staffId": "s3",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-80",
+  "staffId": "s3",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-81",
+  "staffId": "s3",
+  "date": "2026-04-15",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-82",
+  "staffId": "s3",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-83",
+  "staffId": "s3",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-86",
+  "staffId": "s3",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-87",
+  "staffId": "s3",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-88",
+  "staffId": "s3",
+  "date": "2026-04-22",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-89",
+  "staffId": "s3",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-90",
+  "staffId": "s3",
+  "date": "2026-04-24",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-93",
+  "staffId": "s3",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-94",
+  "staffId": "s3",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-95",
+  "staffId": "s3",
+  "date": "2026-04-29",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-96",
+  "staffId": "s3",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-97",
+  "staffId": "s3",
+  "date": "2026-05-01",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-100",
+  "staffId": "s3",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-101",
+  "staffId": "s3",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-102",
+  "staffId": "s3",
+  "date": "2026-05-06",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-103",
+  "staffId": "s3",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-104",
+  "staffId": "s3",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-107",
+  "staffId": "s3",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-108",
+  "staffId": "s3",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-109",
+  "staffId": "s3",
+  "date": "2026-05-13",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-110",
+  "staffId": "s3",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-111",
+  "staffId": "s3",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-114",
+  "staffId": "s3",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-115",
+  "staffId": "s3",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-116",
+  "staffId": "s3",
+  "date": "2026-05-20",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-117",
+  "staffId": "s3",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-118",
+  "staffId": "s3",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-121",
+  "staffId": "s3",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-122",
+  "staffId": "s3",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-123",
+  "staffId": "s3",
+  "date": "2026-05-27",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-124",
+  "staffId": "s3",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s3-125",
+  "staffId": "s3",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "16:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-72",
+  "staffId": "s6",
+  "date": "2026-04-06",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-73",
+  "staffId": "s6",
+  "date": "2026-04-07",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-76",
+  "staffId": "s6",
+  "date": "2026-04-10",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-77",
+  "staffId": "s6",
+  "date": "2026-04-11",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-80",
+  "staffId": "s6",
+  "date": "2026-04-14",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-81",
+  "staffId": "s6",
+  "date": "2026-04-15",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-82",
+  "staffId": "s6",
+  "date": "2026-04-16",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-86",
+  "staffId": "s6",
+  "date": "2026-04-20",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-87",
+  "staffId": "s6",
+  "date": "2026-04-21",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-90",
+  "staffId": "s6",
+  "date": "2026-04-24",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-91",
+  "staffId": "s6",
+  "date": "2026-04-25",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-94",
+  "staffId": "s6",
+  "date": "2026-04-28",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-95",
+  "staffId": "s6",
+  "date": "2026-04-29",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-96",
+  "staffId": "s6",
+  "date": "2026-04-30",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-100",
+  "staffId": "s6",
+  "date": "2026-05-04",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-101",
+  "staffId": "s6",
+  "date": "2026-05-05",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-104",
+  "staffId": "s6",
+  "date": "2026-05-08",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-105",
+  "staffId": "s6",
+  "date": "2026-05-09",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-108",
+  "staffId": "s6",
+  "date": "2026-05-12",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-109",
+  "staffId": "s6",
+  "date": "2026-05-13",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-110",
+  "staffId": "s6",
+  "date": "2026-05-14",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-114",
+  "staffId": "s6",
+  "date": "2026-05-18",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-115",
+  "staffId": "s6",
+  "date": "2026-05-19",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-118",
+  "staffId": "s6",
+  "date": "2026-05-22",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-119",
+  "staffId": "s6",
+  "date": "2026-05-23",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-122",
+  "staffId": "s6",
+  "date": "2026-05-26",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-123",
+  "staffId": "s6",
+  "date": "2026-05-27",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s6-124",
+  "staffId": "s6",
+  "date": "2026-05-28",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-73",
+  "staffId": "s9",
+  "date": "2026-04-07",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-74",
+  "staffId": "s9",
+  "date": "2026-04-08",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-77",
+  "staffId": "s9",
+  "date": "2026-04-11",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-78",
+  "staffId": "s9",
+  "date": "2026-04-12",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-79",
+  "staffId": "s9",
+  "date": "2026-04-13",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-83",
+  "staffId": "s9",
+  "date": "2026-04-17",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-84",
+  "staffId": "s9",
+  "date": "2026-04-18",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-87",
+  "staffId": "s9",
+  "date": "2026-04-21",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-88",
+  "staffId": "s9",
+  "date": "2026-04-22",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-91",
+  "staffId": "s9",
+  "date": "2026-04-25",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-92",
+  "staffId": "s9",
+  "date": "2026-04-26",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-93",
+  "staffId": "s9",
+  "date": "2026-04-27",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-97",
+  "staffId": "s9",
+  "date": "2026-05-01",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-98",
+  "staffId": "s9",
+  "date": "2026-05-02",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-101",
+  "staffId": "s9",
+  "date": "2026-05-05",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-102",
+  "staffId": "s9",
+  "date": "2026-05-06",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-105",
+  "staffId": "s9",
+  "date": "2026-05-09",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-106",
+  "staffId": "s9",
+  "date": "2026-05-10",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-107",
+  "staffId": "s9",
+  "date": "2026-05-11",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-111",
+  "staffId": "s9",
+  "date": "2026-05-15",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-112",
+  "staffId": "s9",
+  "date": "2026-05-16",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-114",
+  "staffId": "s9",
+  "date": "2026-05-18",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-115",
+  "staffId": "s9",
+  "date": "2026-05-19",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-116",
+  "staffId": "s9",
+  "date": "2026-05-20",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-117",
+  "staffId": "s9",
+  "date": "2026-05-21",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-118",
+  "staffId": "s9",
+  "date": "2026-05-22",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "conges",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-119",
+  "staffId": "s9",
+  "date": "2026-05-23",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-120",
+  "staffId": "s9",
+  "date": "2026-05-24",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-121",
+  "staffId": "s9",
+  "date": "2026-05-25",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-125",
+  "staffId": "s9",
+  "date": "2026-05-29",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s9-126",
+  "staffId": "s9",
+  "date": "2026-05-30",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-73",
+  "staffId": "s10",
+  "date": "2026-04-07",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-74",
+  "staffId": "s10",
+  "date": "2026-04-08",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-75",
+  "staffId": "s10",
+  "date": "2026-04-09",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-79",
+  "staffId": "s10",
+  "date": "2026-04-13",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-80",
+  "staffId": "s10",
+  "date": "2026-04-14",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-83",
+  "staffId": "s10",
+  "date": "2026-04-17",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-84",
+  "staffId": "s10",
+  "date": "2026-04-18",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-87",
+  "staffId": "s10",
+  "date": "2026-04-21",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-88",
+  "staffId": "s10",
+  "date": "2026-04-22",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-89",
+  "staffId": "s10",
+  "date": "2026-04-23",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-93",
+  "staffId": "s10",
+  "date": "2026-04-27",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-94",
+  "staffId": "s10",
+  "date": "2026-04-28",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-97",
+  "staffId": "s10",
+  "date": "2026-05-01",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-98",
+  "staffId": "s10",
+  "date": "2026-05-02",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-101",
+  "staffId": "s10",
+  "date": "2026-05-05",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-102",
+  "staffId": "s10",
+  "date": "2026-05-06",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "formation",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-103",
+  "staffId": "s10",
+  "date": "2026-05-07",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-107",
+  "staffId": "s10",
+  "date": "2026-05-11",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-108",
+  "staffId": "s10",
+  "date": "2026-05-12",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-111",
+  "staffId": "s10",
+  "date": "2026-05-15",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-112",
+  "staffId": "s10",
+  "date": "2026-05-16",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-115",
+  "staffId": "s10",
+  "date": "2026-05-19",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-116",
+  "staffId": "s10",
+  "date": "2026-05-20",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-117",
+  "staffId": "s10",
+  "date": "2026-05-21",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-121",
+  "staffId": "s10",
+  "date": "2026-05-25",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-122",
+  "staffId": "s10",
+  "date": "2026-05-26",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-125",
+  "staffId": "s10",
+  "date": "2026-05-29",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s10-126",
+  "staffId": "s10",
+  "date": "2026-05-30",
+  "startTime": "19:00",
+  "endTime": "07:00",
+  "type": "nuit",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-72",
+  "staffId": "s7",
+  "date": "2026-04-06",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-73",
+  "staffId": "s7",
+  "date": "2026-04-07",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-74",
+  "staffId": "s7",
+  "date": "2026-04-08",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-75",
+  "staffId": "s7",
+  "date": "2026-04-09",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-78",
+  "staffId": "s7",
+  "date": "2026-04-12",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-79",
+  "staffId": "s7",
+  "date": "2026-04-13",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-80",
+  "staffId": "s7",
+  "date": "2026-04-14",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-81",
+  "staffId": "s7",
+  "date": "2026-04-15",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-82",
+  "staffId": "s7",
+  "date": "2026-04-16",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-85",
+  "staffId": "s7",
+  "date": "2026-04-19",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-86",
+  "staffId": "s7",
+  "date": "2026-04-20",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-87",
+  "staffId": "s7",
+  "date": "2026-04-21",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-88",
+  "staffId": "s7",
+  "date": "2026-04-22",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-89",
+  "staffId": "s7",
+  "date": "2026-04-23",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-92",
+  "staffId": "s7",
+  "date": "2026-04-26",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-93",
+  "staffId": "s7",
+  "date": "2026-04-27",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-94",
+  "staffId": "s7",
+  "date": "2026-04-28",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-95",
+  "staffId": "s7",
+  "date": "2026-04-29",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-96",
+  "staffId": "s7",
+  "date": "2026-04-30",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-99",
+  "staffId": "s7",
+  "date": "2026-05-03",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-100",
+  "staffId": "s7",
+  "date": "2026-05-04",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-101",
+  "staffId": "s7",
+  "date": "2026-05-05",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-102",
+  "staffId": "s7",
+  "date": "2026-05-06",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-103",
+  "staffId": "s7",
+  "date": "2026-05-07",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-106",
+  "staffId": "s7",
+  "date": "2026-05-10",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-107",
+  "staffId": "s7",
+  "date": "2026-05-11",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-108",
+  "staffId": "s7",
+  "date": "2026-05-12",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-109",
+  "staffId": "s7",
+  "date": "2026-05-13",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-110",
+  "staffId": "s7",
+  "date": "2026-05-14",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "type": "formation",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-113",
+  "staffId": "s7",
+  "date": "2026-05-17",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-114",
+  "staffId": "s7",
+  "date": "2026-05-18",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-115",
+  "staffId": "s7",
+  "date": "2026-05-19",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-116",
+  "staffId": "s7",
+  "date": "2026-05-20",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-117",
+  "staffId": "s7",
+  "date": "2026-05-21",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-120",
+  "staffId": "s7",
+  "date": "2026-05-24",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-121",
+  "staffId": "s7",
+  "date": "2026-05-25",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-122",
+  "staffId": "s7",
+  "date": "2026-05-26",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-123",
+  "staffId": "s7",
+  "date": "2026-05-27",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-124",
+  "staffId": "s7",
+  "date": "2026-05-28",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s7-127",
+  "staffId": "s7",
+  "date": "2026-05-31",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-72",
+  "staffId": "s12",
+  "date": "2026-04-06",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-75",
+  "staffId": "s12",
+  "date": "2026-04-09",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-76",
+  "staffId": "s12",
+  "date": "2026-04-10",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-77",
+  "staffId": "s12",
+  "date": "2026-04-11",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-78",
+  "staffId": "s12",
+  "date": "2026-04-12",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-79",
+  "staffId": "s12",
+  "date": "2026-04-13",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-82",
+  "staffId": "s12",
+  "date": "2026-04-16",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-83",
+  "staffId": "s12",
+  "date": "2026-04-17",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-84",
+  "staffId": "s12",
+  "date": "2026-04-18",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-85",
+  "staffId": "s12",
+  "date": "2026-04-19",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-86",
+  "staffId": "s12",
+  "date": "2026-04-20",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-89",
+  "staffId": "s12",
+  "date": "2026-04-23",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-90",
+  "staffId": "s12",
+  "date": "2026-04-24",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-91",
+  "staffId": "s12",
+  "date": "2026-04-25",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-92",
+  "staffId": "s12",
+  "date": "2026-04-26",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-93",
+  "staffId": "s12",
+  "date": "2026-04-27",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-96",
+  "staffId": "s12",
+  "date": "2026-04-30",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-97",
+  "staffId": "s12",
+  "date": "2026-05-01",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-98",
+  "staffId": "s12",
+  "date": "2026-05-02",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-99",
+  "staffId": "s12",
+  "date": "2026-05-03",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-100",
+  "staffId": "s12",
+  "date": "2026-05-04",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-101",
+  "staffId": "s12",
+  "date": "2026-05-05",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "type": "rtt",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-103",
+  "staffId": "s12",
+  "date": "2026-05-07",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-104",
+  "staffId": "s12",
+  "date": "2026-05-08",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-105",
+  "staffId": "s12",
+  "date": "2026-05-09",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-106",
+  "staffId": "s12",
+  "date": "2026-05-10",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-107",
+  "staffId": "s12",
+  "date": "2026-05-11",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-110",
+  "staffId": "s12",
+  "date": "2026-05-14",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-111",
+  "staffId": "s12",
+  "date": "2026-05-15",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-112",
+  "staffId": "s12",
+  "date": "2026-05-16",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-113",
+  "staffId": "s12",
+  "date": "2026-05-17",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-114",
+  "staffId": "s12",
+  "date": "2026-05-18",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-117",
+  "staffId": "s12",
+  "date": "2026-05-21",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-118",
+  "staffId": "s12",
+  "date": "2026-05-22",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-119",
+  "staffId": "s12",
+  "date": "2026-05-23",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-120",
+  "staffId": "s12",
+  "date": "2026-05-24",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-121",
+  "staffId": "s12",
+  "date": "2026-05-25",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-124",
+  "staffId": "s12",
+  "date": "2026-05-28",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-125",
+  "staffId": "s12",
+  "date": "2026-05-29",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-126",
+  "staffId": "s12",
+  "date": "2026-05-30",
+  "startTime": "07:00",
+  "endTime": "15:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s12-127",
+  "staffId": "s12",
+  "date": "2026-05-31",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-72",
+  "staffId": "s16",
+  "date": "2026-04-06",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-73",
+  "staffId": "s16",
+  "date": "2026-04-07",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-74",
+  "staffId": "s16",
+  "date": "2026-04-08",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-75",
+  "staffId": "s16",
+  "date": "2026-04-09",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-76",
+  "staffId": "s16",
+  "date": "2026-04-10",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-79",
+  "staffId": "s16",
+  "date": "2026-04-13",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-80",
+  "staffId": "s16",
+  "date": "2026-04-14",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-81",
+  "staffId": "s16",
+  "date": "2026-04-15",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-82",
+  "staffId": "s16",
+  "date": "2026-04-16",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-83",
+  "staffId": "s16",
+  "date": "2026-04-17",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-86",
+  "staffId": "s16",
+  "date": "2026-04-20",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-87",
+  "staffId": "s16",
+  "date": "2026-04-21",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-88",
+  "staffId": "s16",
+  "date": "2026-04-22",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-89",
+  "staffId": "s16",
+  "date": "2026-04-23",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-90",
+  "staffId": "s16",
+  "date": "2026-04-24",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-93",
+  "staffId": "s16",
+  "date": "2026-04-27",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-94",
+  "staffId": "s16",
+  "date": "2026-04-28",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-95",
+  "staffId": "s16",
+  "date": "2026-04-29",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-96",
+  "staffId": "s16",
+  "date": "2026-04-30",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-97",
+  "staffId": "s16",
+  "date": "2026-05-01",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-100",
+  "staffId": "s16",
+  "date": "2026-05-04",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-101",
+  "staffId": "s16",
+  "date": "2026-05-05",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-102",
+  "staffId": "s16",
+  "date": "2026-05-06",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-103",
+  "staffId": "s16",
+  "date": "2026-05-07",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-104",
+  "staffId": "s16",
+  "date": "2026-05-08",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-107",
+  "staffId": "s16",
+  "date": "2026-05-11",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-108",
+  "staffId": "s16",
+  "date": "2026-05-12",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-109",
+  "staffId": "s16",
+  "date": "2026-05-13",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-110",
+  "staffId": "s16",
+  "date": "2026-05-14",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-111",
+  "staffId": "s16",
+  "date": "2026-05-15",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-114",
+  "staffId": "s16",
+  "date": "2026-05-18",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-115",
+  "staffId": "s16",
+  "date": "2026-05-19",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-116",
+  "staffId": "s16",
+  "date": "2026-05-20",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-117",
+  "staffId": "s16",
+  "date": "2026-05-21",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-118",
+  "staffId": "s16",
+  "date": "2026-05-22",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-121",
+  "staffId": "s16",
+  "date": "2026-05-25",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-122",
+  "staffId": "s16",
+  "date": "2026-05-26",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-123",
+  "staffId": "s16",
+  "date": "2026-05-27",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-124",
+  "staffId": "s16",
+  "date": "2026-05-28",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s16-125",
+  "staffId": "s16",
+  "date": "2026-05-29",
+  "startTime": "08:30",
+  "endTime": "16:30",
+  "type": "admin",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-73",
+  "staffId": "s13",
+  "date": "2026-04-07",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-76",
+  "staffId": "s13",
+  "date": "2026-04-10",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-79",
+  "staffId": "s13",
+  "date": "2026-04-13",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-82",
+  "staffId": "s13",
+  "date": "2026-04-16",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-85",
+  "staffId": "s13",
+  "date": "2026-04-19",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-88",
+  "staffId": "s13",
+  "date": "2026-04-22",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-91",
+  "staffId": "s13",
+  "date": "2026-04-25",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-94",
+  "staffId": "s13",
+  "date": "2026-04-28",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-97",
+  "staffId": "s13",
+  "date": "2026-05-01",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-100",
+  "staffId": "s13",
+  "date": "2026-05-04",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-103",
+  "staffId": "s13",
+  "date": "2026-05-07",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-106",
+  "staffId": "s13",
+  "date": "2026-05-10",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-109",
+  "staffId": "s13",
+  "date": "2026-05-13",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-112",
+  "staffId": "s13",
+  "date": "2026-05-16",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-115",
+  "staffId": "s13",
+  "date": "2026-05-19",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-118",
+  "staffId": "s13",
+  "date": "2026-05-22",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-121",
+  "staffId": "s13",
+  "date": "2026-05-25",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-124",
+  "staffId": "s13",
+  "date": "2026-05-28",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s13-127",
+  "staffId": "s13",
+  "date": "2026-05-31",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-93",
+  "staffId": "s14",
+  "date": "2026-04-27",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-95",
+  "staffId": "s14",
+  "date": "2026-04-29",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-97",
+  "staffId": "s14",
+  "date": "2026-05-01",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-100",
+  "staffId": "s14",
+  "date": "2026-05-04",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-102",
+  "staffId": "s14",
+  "date": "2026-05-06",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-104",
+  "staffId": "s14",
+  "date": "2026-05-08",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-107",
+  "staffId": "s14",
+  "date": "2026-05-11",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-109",
+  "staffId": "s14",
+  "date": "2026-05-13",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s14-111",
+  "staffId": "s14",
+  "date": "2026-05-15",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-73",
+  "staffId": "s15",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-75",
+  "staffId": "s15",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-80",
+  "staffId": "s15",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-82",
+  "staffId": "s15",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-87",
+  "staffId": "s15",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-89",
+  "staffId": "s15",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-94",
+  "staffId": "s15",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-96",
+  "staffId": "s15",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-101",
+  "staffId": "s15",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-103",
+  "staffId": "s15",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-108",
+  "staffId": "s15",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-110",
+  "staffId": "s15",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-115",
+  "staffId": "s15",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-117",
+  "staffId": "s15",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-122",
+  "staffId": "s15",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s15-124",
+  "staffId": "s15",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "chir-gen",
+  "planningId": "pl-current"
+ },
+ {
+  "id": "sh-s4-72",
+  "staffId": "s4",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-73",
+  "staffId": "s4",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-74",
+  "staffId": "s4",
+  "date": "2026-04-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-75",
+  "staffId": "s4",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-76",
+  "staffId": "s4",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-79",
+  "staffId": "s4",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-80",
+  "staffId": "s4",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-81",
+  "staffId": "s4",
+  "date": "2026-04-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-82",
+  "staffId": "s4",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-83",
+  "staffId": "s4",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-86",
+  "staffId": "s4",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-87",
+  "staffId": "s4",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-88",
+  "staffId": "s4",
+  "date": "2026-04-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-89",
+  "staffId": "s4",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-90",
+  "staffId": "s4",
+  "date": "2026-04-24",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-93",
+  "staffId": "s4",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-94",
+  "staffId": "s4",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-95",
+  "staffId": "s4",
+  "date": "2026-04-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-96",
+  "staffId": "s4",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-97",
+  "staffId": "s4",
+  "date": "2026-05-01",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-100",
+  "staffId": "s4",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-101",
+  "staffId": "s4",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-102",
+  "staffId": "s4",
+  "date": "2026-05-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-103",
+  "staffId": "s4",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-104",
+  "staffId": "s4",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-107",
+  "staffId": "s4",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-108",
+  "staffId": "s4",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-109",
+  "staffId": "s4",
+  "date": "2026-05-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-110",
+  "staffId": "s4",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-111",
+  "staffId": "s4",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-114",
+  "staffId": "s4",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-115",
+  "staffId": "s4",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-116",
+  "staffId": "s4",
+  "date": "2026-05-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-117",
+  "staffId": "s4",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-118",
+  "staffId": "s4",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-121",
+  "staffId": "s4",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-122",
+  "staffId": "s4",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-123",
+  "staffId": "s4",
+  "date": "2026-05-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-124",
+  "staffId": "s4",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s4-125",
+  "staffId": "s4",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-72",
+  "staffId": "s8",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-73",
+  "staffId": "s8",
+  "date": "2026-04-07",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-74",
+  "staffId": "s8",
+  "date": "2026-04-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-75",
+  "staffId": "s8",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-76",
+  "staffId": "s8",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-79",
+  "staffId": "s8",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-80",
+  "staffId": "s8",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-81",
+  "staffId": "s8",
+  "date": "2026-04-15",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-82",
+  "staffId": "s8",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-83",
+  "staffId": "s8",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-86",
+  "staffId": "s8",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-87",
+  "staffId": "s8",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-88",
+  "staffId": "s8",
+  "date": "2026-04-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-89",
+  "staffId": "s8",
+  "date": "2026-04-23",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-90",
+  "staffId": "s8",
+  "date": "2026-04-24",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-93",
+  "staffId": "s8",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-94",
+  "staffId": "s8",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-95",
+  "staffId": "s8",
+  "date": "2026-04-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-96",
+  "staffId": "s8",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-97",
+  "staffId": "s8",
+  "date": "2026-05-01",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-100",
+  "staffId": "s8",
+  "date": "2026-05-04",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-101",
+  "staffId": "s8",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-102",
+  "staffId": "s8",
+  "date": "2026-05-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-103",
+  "staffId": "s8",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-104",
+  "staffId": "s8",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-107",
+  "staffId": "s8",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-108",
+  "staffId": "s8",
+  "date": "2026-05-12",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-109",
+  "staffId": "s8",
+  "date": "2026-05-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-110",
+  "staffId": "s8",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-111",
+  "staffId": "s8",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-114",
+  "staffId": "s8",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-115",
+  "staffId": "s8",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-116",
+  "staffId": "s8",
+  "date": "2026-05-20",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-117",
+  "staffId": "s8",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-118",
+  "staffId": "s8",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-121",
+  "staffId": "s8",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-122",
+  "staffId": "s8",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-123",
+  "staffId": "s8",
+  "date": "2026-05-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-124",
+  "staffId": "s8",
+  "date": "2026-05-28",
+  "startTime": "18:30",
+  "endTime": "08:30",
+  "type": "garde",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s8-125",
+  "staffId": "s8",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "rea",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-72",
+  "staffId": "s5",
+  "date": "2026-04-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-73",
+  "staffId": "s5",
+  "date": "2026-04-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-74",
+  "staffId": "s5",
+  "date": "2026-04-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-75",
+  "staffId": "s5",
+  "date": "2026-04-09",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-76",
+  "staffId": "s5",
+  "date": "2026-04-10",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-79",
+  "staffId": "s5",
+  "date": "2026-04-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-80",
+  "staffId": "s5",
+  "date": "2026-04-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-81",
+  "staffId": "s5",
+  "date": "2026-04-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-82",
+  "staffId": "s5",
+  "date": "2026-04-16",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-83",
+  "staffId": "s5",
+  "date": "2026-04-17",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-86",
+  "staffId": "s5",
+  "date": "2026-04-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-87",
+  "staffId": "s5",
+  "date": "2026-04-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-88",
+  "staffId": "s5",
+  "date": "2026-04-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-89",
+  "staffId": "s5",
+  "date": "2026-04-23",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-90",
+  "staffId": "s5",
+  "date": "2026-04-24",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-93",
+  "staffId": "s5",
+  "date": "2026-04-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-94",
+  "staffId": "s5",
+  "date": "2026-04-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-95",
+  "staffId": "s5",
+  "date": "2026-04-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-96",
+  "staffId": "s5",
+  "date": "2026-04-30",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-97",
+  "staffId": "s5",
+  "date": "2026-05-01",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-100",
+  "staffId": "s5",
+  "date": "2026-05-04",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-101",
+  "staffId": "s5",
+  "date": "2026-05-05",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-102",
+  "staffId": "s5",
+  "date": "2026-05-06",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-103",
+  "staffId": "s5",
+  "date": "2026-05-07",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-104",
+  "staffId": "s5",
+  "date": "2026-05-08",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-107",
+  "staffId": "s5",
+  "date": "2026-05-11",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-108",
+  "staffId": "s5",
+  "date": "2026-05-12",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-109",
+  "staffId": "s5",
+  "date": "2026-05-13",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-110",
+  "staffId": "s5",
+  "date": "2026-05-14",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-111",
+  "staffId": "s5",
+  "date": "2026-05-15",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-114",
+  "staffId": "s5",
+  "date": "2026-05-18",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-115",
+  "staffId": "s5",
+  "date": "2026-05-19",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-116",
+  "staffId": "s5",
+  "date": "2026-05-20",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-117",
+  "staffId": "s5",
+  "date": "2026-05-21",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-118",
+  "staffId": "s5",
+  "date": "2026-05-22",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-121",
+  "staffId": "s5",
+  "date": "2026-05-25",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-122",
+  "staffId": "s5",
+  "date": "2026-05-26",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-123",
+  "staffId": "s5",
+  "date": "2026-05-27",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-124",
+  "staffId": "s5",
+  "date": "2026-05-28",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s5-125",
+  "staffId": "s5",
+  "date": "2026-05-29",
+  "startTime": "08:00",
+  "endTime": "18:00",
+  "type": "jour",
+  "service": "cardio",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-74",
+  "staffId": "s17",
+  "date": "2026-04-08",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-77",
+  "staffId": "s17",
+  "date": "2026-04-11",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-80",
+  "staffId": "s17",
+  "date": "2026-04-14",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-83",
+  "staffId": "s17",
+  "date": "2026-04-17",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-86",
+  "staffId": "s17",
+  "date": "2026-04-20",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-89",
+  "staffId": "s17",
+  "date": "2026-04-23",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-92",
+  "staffId": "s17",
+  "date": "2026-04-26",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-95",
+  "staffId": "s17",
+  "date": "2026-04-29",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-98",
+  "staffId": "s17",
+  "date": "2026-05-02",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-101",
+  "staffId": "s17",
+  "date": "2026-05-05",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-104",
+  "staffId": "s17",
+  "date": "2026-05-08",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-107",
+  "staffId": "s17",
+  "date": "2026-05-11",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-110",
+  "staffId": "s17",
+  "date": "2026-05-14",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-113",
+  "staffId": "s17",
+  "date": "2026-05-17",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-116",
+  "staffId": "s17",
+  "date": "2026-05-20",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-119",
+  "staffId": "s17",
+  "date": "2026-05-23",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-122",
+  "staffId": "s17",
+  "date": "2026-05-26",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ },
+ {
+  "id": "sh-s17-125",
+  "staffId": "s17",
+  "date": "2026-05-29",
+  "startTime": "07:00",
+  "endTime": "19:00",
+  "type": "jour",
+  "service": "urgences",
+  "planningId": null
+ }
+]
