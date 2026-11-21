@@ -1,12 +1,30 @@
 import type { Staff, Service } from "@/lib/types/planning";
 
 export const services: Service[] = [
-  { id: "chir-gen", name: "Chirurgie générale", shortName: "Chir. Gén.", staffCount: 24, color: "primary" },
-  { id: "rea", name: "Réanimation - Soins intensifs", shortName: "Réa / SI", staffCount: 18, color: "tertiary" },
-  { id: "cardio", name: "Cardiologie", shortName: "Cardio", staffCount: 16, color: "secondary" },
-  { id: "neuro", name: "Neurologie", shortName: "Neuro", staffCount: 12, color: "primary" },
-  { id: "urgences", name: "Urgences", shortName: "Urg.", staffCount: 32, color: "error" },
-  { id: "pediatrie", name: "Pédiatrie", shortName: "Péd.", staffCount: 14, color: "secondary" },
+  {
+    id: "chir-gen", name: "Chirurgie générale", shortName: "Chir. Gén.", staffCount: 24, color: "primary",
+    managerId: null
+  },
+  {
+    id: "rea", name: "Réanimation - Soins intensifs", shortName: "Réa / SI", staffCount: 18, color: "tertiary",
+    managerId: null
+  },
+  {
+    id: "cardio", name: "Cardiologie", shortName: "Cardio", staffCount: 16, color: "secondary",
+    managerId: null
+  },
+  {
+    id: "neuro", name: "Neurologie", shortName: "Neuro", staffCount: 12, color: "primary",
+    managerId: null
+  },
+  {
+    id: "urgences", name: "Urgences", shortName: "Urg.", staffCount: 32, color: "error",
+    managerId: null
+  },
+  {
+    id: "pediatrie", name: "Pédiatrie", shortName: "Péd.", staffCount: 14, color: "secondary",
+    managerId: null
+  },
 ];
 
 export const staff: Staff[] = [
@@ -20,7 +38,17 @@ export const staff: Staff[] = [
     service: "chir-gen",
     weeklyHours: 48,
     contractedHours: 48,
-    skills: ["Chirurgie viscérale", "Cœlioscopie", "Bloc d'urgence"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Suture" }, { level: 9, name: "Hospitalisation" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s2",
@@ -32,7 +60,17 @@ export const staff: Staff[] = [
     service: "chir-gen",
     weeklyHours: 52,
     contractedHours: 48,
-    skills: ["Suture", "Hospitalisation"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Suture" }, { level: 9, name: "Hospitalisation" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s3",
@@ -44,7 +82,17 @@ export const staff: Staff[] = [
     service: "chir-gen",
     weeklyHours: 35,
     contractedHours: 35,
-    skills: ["Bloc opératoire", "Encadrement"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Bloc opératoire" }, { level: 9, name: "Encadrement" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s4",
@@ -56,7 +104,21 @@ export const staff: Staff[] = [
     service: "rea",
     weeklyHours: 50,
     contractedHours: 48,
-    skills: ["Réanimation médicale", "ECMO", "Échographie"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [
+      { level: 9, name: "Réanimation médicale" },
+      { level: 9, name: "ECMO" },
+      { level: 9, name: "Échographie" }
+    ],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s5",
@@ -68,7 +130,17 @@ export const staff: Staff[] = [
     service: "cardio",
     weeklyHours: 39,
     contractedHours: 39,
-    skills: ["Coronarographie", "Holter"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Coronarographie" }, { level: 9, name: "Holter" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s6",
@@ -80,7 +152,17 @@ export const staff: Staff[] = [
     service: "chir-gen",
     weeklyHours: 35,
     contractedHours: 35,
-    skills: ["Soins post-op", "Pansements complexes"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Soins post-op" }, { level: 9, name: "Pansements complexes" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s7",
@@ -92,7 +174,17 @@ export const staff: Staff[] = [
     service: "chir-gen",
     weeklyHours: 35,
     contractedHours: 35,
-    skills: ["Mobilisation", "Hygiène"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Mobilisation" }, { level: 9, name: "Hygiène" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
   {
     id: "s8",
@@ -104,7 +196,17 @@ export const staff: Staff[] = [
     service: "rea",
     weeklyHours: 48,
     contractedHours: 48,
-    skills: ["Intubation", "VVC"],
+    appRole: "admin",
+    contract: "titulaire",
+    email: "",
+    phone: "",
+    skills: [{ level: 9, name: "Intubation" }, { level: 9, name: "VVC" }],
+    certifications: [],
+    leaveBalance: {
+      conges: 0,
+      rtt: 0
+    },
+    joinedAt: ""
   },
 ];
 

@@ -60,6 +60,7 @@ export function CollaboratorModal({ open, onClose }: { open: boolean; onClose: (
       certifications: [],
       leaveBalance: { conges: 0, rtt: 0 },
       joinedAt: todayISO(),
+      weeklyHours: 0
     });
     toast(`${form.firstName} ${form.lastName} a été ajouté(e) à l'annuaire`);
     setForm({ ...empty, service: user.service });

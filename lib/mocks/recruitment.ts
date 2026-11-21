@@ -16,6 +16,8 @@ export const openJobs: JobRole[] = [
     icon: "cardiology",
     description: "Praticien hospitalier confirmé pour rejoindre l'équipe de chirurgie cardiothoracique adulte.",
     requirements: ["DESC chirurgie thoracique", "Min. 5 ans d'expérience", "Bloc d'urgence"],
+    category: "medecin",
+    scope: "externe"
   },
   {
     id: "j2",
@@ -32,6 +34,8 @@ export const openJobs: JobRole[] = [
     icon: "pediatrics",
     description: "Consultant pédiatrique pour consultations externes et avis spécialisés en néonatalogie.",
     requirements: ["DES pédiatrie", "Compétence néonatalogie", "Garde de week-end (1 sur 6)"],
+    category: "medecin",
+    scope: "externe"
   },
   {
     id: "j3",
@@ -48,6 +52,8 @@ export const openJobs: JobRole[] = [
     icon: "neurology",
     description: "Interprétation d'EEG, holter et avis neuroradiologiques en vacation.",
     requirements: ["DES neurologie", "Lecture EEG confirmée", "2 vacations/semaine"],
+    category: "medecin",
+    scope: "externe"
   },
   {
     id: "j4",
@@ -64,6 +70,8 @@ export const openJobs: JobRole[] = [
     icon: "vaccines",
     description: "IDE de bloc opératoire, polyvalence chirurgie viscérale et orthopédique.",
     requirements: ["IBODE souhaité", "Expérience bloc 2 ans min.", "Astreinte nuit"],
+    category: "medecin",
+    scope: "externe"
   },
   {
     id: "j5",
@@ -80,6 +88,8 @@ export const openJobs: JobRole[] = [
     icon: "supervisor_account",
     description: "Encadrement d'une équipe de 24 IDE en service de réanimation polyvalente.",
     requirements: ["Diplôme cadre de santé", "Expérience encadrement", "Connaissance réa"],
+    category: "medecin",
+    scope: "externe"
   },
   {
     id: "j6",
@@ -96,17 +106,82 @@ export const openJobs: JobRole[] = [
     icon: "emergency",
     description: "Poste d'interne pour le semestre de novembre 2026, urgences adultes.",
     requirements: ["DESMG en cours", "Validation maquette urgences"],
+    category: "medecin",
+    scope: "externe"
   },
 ];
 
 export const candidates: Candidate[] = [
-  { id: "c1", firstName: "Alara", lastName: "Sato", initials: "AS", jobId: "j1", jobTitle: "Chirurgien cardiothoracique", currentRole: "PH temps plein — CHU Lyon", stage: "entretien", appliedAt: "2026-04-22", experience: 8, matchScore: 94, rppsVerified: true },
-  { id: "c2", firstName: "Marcus", lastName: "Reed", initials: "MR", jobId: "j3", jobTitle: "Spécialiste diagnostique neurologie", currentRole: "Praticien attaché — Bordeaux", stage: "validation", appliedAt: "2026-05-04", experience: 12, matchScore: 88, rppsVerified: true },
-  { id: "c3", firstName: "Elena", lastName: "Jin", initials: "EJ", jobId: "j2", jobTitle: "Pédiatre consultant senior", currentRole: "Pédiatre libéral", stage: "preselection", appliedAt: "2026-05-01", experience: 6, matchScore: 76, rppsVerified: true },
-  { id: "c4", firstName: "Théo", lastName: "Lambert", initials: "TL", jobId: "j4", jobTitle: "IDE Bloc opératoire", currentRole: "IBODE — Clinique de l'Estuaire", stage: "nouveau", appliedAt: "2026-05-08", experience: 5, matchScore: 82, rppsVerified: false },
-  { id: "c5", firstName: "Yasmine", lastName: "Chaouki", initials: "YC", jobId: "j4", jobTitle: "IDE Bloc opératoire", currentRole: "IDE bloc — CH Avignon", stage: "entretien", appliedAt: "2026-05-03", experience: 3, matchScore: 71, rppsVerified: true },
-  { id: "c6", firstName: "Bertrand", lastName: "Noël", initials: "BN", jobId: "j5", jobTitle: "Cadre de santé — Réanimation", stage: "preselection", currentRole: "Cadre IDE — CH Niort", appliedAt: "2026-05-06", experience: 11, matchScore: 90, rppsVerified: true },
-  { id: "c7", firstName: "Nora", lastName: "Adler", initials: "NA", jobId: "j6", jobTitle: "Interne urgences (semestre)", currentRole: "Internat 2e année", stage: "nouveau", appliedAt: "2026-05-09", experience: 1, matchScore: 65, rppsVerified: false },
-  { id: "c8", firstName: "Pierre", lastName: "Vidal", initials: "PV", jobId: "j1", jobTitle: "Chirurgien cardiothoracique", currentRole: "PH — Marseille", stage: "embauche", appliedAt: "2026-03-28", experience: 14, matchScore: 96, rppsVerified: true },
-  { id: "c9", firstName: "Léna", lastName: "Marchand", initials: "LM", jobId: "j2", jobTitle: "Pédiatre consultant senior", currentRole: "Pédiatre — CH Tours", stage: "refuse", appliedAt: "2026-04-15", experience: 4, matchScore: 58, rppsVerified: true },
+  {
+    id: "c1", firstName: "Alara", lastName: "Sato", initials: "AS", jobId: "j1", jobTitle: "Chirurgien cardiothoracique", currentRole: "PH temps plein — CHU Lyon", stage: "entretien", appliedAt: "2026-04-22", experience: 8, matchScore: 94, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c2", firstName: "Marcus", lastName: "Reed", initials: "MR", jobId: "j3", jobTitle: "Spécialiste diagnostique neurologie", currentRole: "Praticien attaché — Bordeaux", stage: "validation", appliedAt: "2026-05-04", experience: 12, matchScore: 88, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c3", firstName: "Elena", lastName: "Jin", initials: "EJ", jobId: "j2", jobTitle: "Pédiatre consultant senior", currentRole: "Pédiatre libéral", stage: "preselection", appliedAt: "2026-05-01", experience: 6, matchScore: 76, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c4", firstName: "Théo", lastName: "Lambert", initials: "TL", jobId: "j4", jobTitle: "IDE Bloc opératoire", currentRole: "IBODE — Clinique de l'Estuaire", stage: "nouveau", appliedAt: "2026-05-08", experience: 5, matchScore: 82, rppsVerified: false,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c5", firstName: "Yasmine", lastName: "Chaouki", initials: "YC", jobId: "j4", jobTitle: "IDE Bloc opératoire", currentRole: "IDE bloc — CH Avignon", stage: "entretien", appliedAt: "2026-05-03", experience: 3, matchScore: 71, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c6", firstName: "Bertrand", lastName: "Noël", initials: "BN", jobId: "j5", jobTitle: "Cadre de santé — Réanimation", stage: "preselection", currentRole: "Cadre IDE — CH Niort", appliedAt: "2026-05-06", experience: 11, matchScore: 90, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c7", firstName: "Nora", lastName: "Adler", initials: "NA", jobId: "j6", jobTitle: "Interne urgences (semestre)", currentRole: "Internat 2e année", stage: "nouveau", appliedAt: "2026-05-09", experience: 1, matchScore: 65, rppsVerified: false,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c8", firstName: "Pierre", lastName: "Vidal", initials: "PV", jobId: "j1", jobTitle: "Chirurgien cardiothoracique", currentRole: "PH — Marseille", stage: "embauche", appliedAt: "2026-03-28", experience: 14, matchScore: 96, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
+  {
+    id: "c9", firstName: "Léna", lastName: "Marchand", initials: "LM", jobId: "j2", jobTitle: "Pédiatre consultant senior", currentRole: "Pédiatre — CH Tours", stage: "refuse", appliedAt: "2026-04-15", experience: 4, matchScore: 58, rppsVerified: true,
+    email: "",
+    phone: "",
+    location: "",
+    motivation: "",
+    interviewAt: null
+  },
 ];

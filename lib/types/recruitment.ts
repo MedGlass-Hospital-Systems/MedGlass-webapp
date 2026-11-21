@@ -11,6 +11,7 @@ export interface JobRole {
   id: string;
   title: string;
   service: string;
+  serviceLabel: string;
   site: string;
   contractType: ContractType;
   category: JobCategory;
@@ -19,6 +20,7 @@ export interface JobRole {
   priority: JobPriority;
   postedAt: string;
   closesAt: string | null;
+  applications: number;
   icon: string;
   description: string;
   requirements: string[];
@@ -37,6 +39,8 @@ export interface Candidate {
   firstName: string;
   lastName: string;
   jobId: string;
+  initials: string;
+  jobTitle: string;
   currentRole: string;
   stage: ApplicationStage;
   appliedAt: string;

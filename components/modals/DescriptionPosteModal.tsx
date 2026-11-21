@@ -20,14 +20,14 @@ export default function DescriptionPosteModal({ job, open, onClose }: PosteModal
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
       {/* Conteneur du modal animé */}
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         exit={{ opacity: 0, scale: 0.95 }}
         className="bg-background border border-white/10 rounded-xl p-6 w-full max-w-2xl max-h-[85vh] overflow-y-auto glass-panel relative shadow-2xl"
       >
         {/* Bouton de fermeture */}
-        <button 
+        <button
           onClick={onClose}
           className="absolute top-4 right-4 p-2 rounded-full hover:bg-white/10 text-on-surface-variant transition-colors"
         >
@@ -52,9 +52,9 @@ export default function DescriptionPosteModal({ job, open, onClose }: PosteModal
 
         {/* Liste des candidats avec affichage conditionnel */}
         <div>
-          <h3 className="text-title-md font-semibold text-on-surface mb-4">
-            Liste des candidats ({job.applications || 0})
-          </h3>
+          {/*<h3 className="text-title-md font-semibold text-on-surface mb-4">
+            Liste des candidats ({job. || 0})
+          </h3>*/}
           {isAdmin ? <ListeCandidatAdmin /> : <ListeCandidat />}
         </div>
       </motion.div>
@@ -82,13 +82,13 @@ function ListeCandidatAdmin() {
         <li key={candidat.id} className="flex items-center justify-between p-4 bg-white/5 rounded-lg border border-white/10">
           <span className="text-body-md text-on-surface font-medium">{candidat.nom}</span>
           <div className="flex gap-2">
-            <button 
+            <button
               onClick={() => handleAction(candidat.id, "Refuser")}
               className="px-3 py-1.5 bg-error/20 text-error rounded-md hover:bg-error/30 transition-colors text-label-caps"
             >
               Refuser
             </button>
-            <button 
+            <button
               onClick={() => handleAction(candidat.id, "Accepter")}
               className="px-3 py-1.5 bg-primary/20 text-primary rounded-md hover:bg-primary/30 transition-colors text-label-caps"
             >

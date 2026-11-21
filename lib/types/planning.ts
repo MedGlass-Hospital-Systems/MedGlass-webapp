@@ -34,6 +34,7 @@ export interface Staff {
   lastName: string;
   initials: string;
   role: StaffRole;
+  weeklyHours: number;
   roleLabel: string;
   service: string;
   appRole: AppRole;
@@ -63,6 +64,7 @@ export interface Shift {
 export interface Service {
   id: string;
   name: string;
+  staffCount: number;
   shortName: string;
   color: string;
   managerId: string | null;
@@ -134,6 +136,15 @@ export interface Planning {
   wishesDeadline: string | null;
   requestedStaffIds: string[];
   ruleIds: string[];
+}
+
+export type PlanningGap = {
+  id: string,
+  date: string,
+  service: string,
+  shift: string,
+  severity: string,
+  reason: string,
 }
 
 export type WishSlot = "matin" | "apres-midi" | "nuit";

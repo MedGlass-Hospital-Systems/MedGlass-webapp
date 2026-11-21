@@ -50,6 +50,8 @@ export function JobFormModal({ open, onClose, scope = "externe" }: { open: boole
       icon: ICONS[f.category],
       description: f.description.trim(),
       requirements: f.requirements.split("\n").map((r) => r.trim()).filter(Boolean),
+      serviceLabel: "",
+      applications: 0
     });
     toast(f.scope === "interne" ? "Offre de mobilité interne publiée" : "Poste publié");
     onClose();
